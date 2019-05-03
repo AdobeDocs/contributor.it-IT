@@ -1,13 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento
-  per il linguaggio Markdown utilizzato per scrivere gli articoli.
-seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento
-  per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione
-  di Adobe.
-translation-type: tm+mt
+description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
+seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -151,8 +148,8 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
 - Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
-- L’app Web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
+- La Web app [Generatore di tabelle Markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Conversione di tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Collegamenti
 
@@ -338,7 +335,7 @@ Per gli elementi nell’interfaccia utente e i menu di una soluzione, si utilizz
 
 **Esempio:**
 
-In potete [!DNL Adobe Target] creare i test direttamente su una pagina [!DNL Target]abilitata.
+In [!DNL Adobe Target] puoi creare i test direttamente su una pagina abilitata per [!DNL Target].
 
 **Origine:**
 
@@ -348,7 +345,7 @@ In [!DNL Adobe Target] you can create your tests directly on a [!DNL Target]-ena
 
 **Esempio**
 
-Utilizzate l' [!UICONTROL Visual Experience Composer] icona per [!DNL Target] creare il test direttamente su una pagina.
+Utilizza [!UICONTROL Visual Experience Composer] in [!DNL Target] per creare il test direttamente su una pagina.
 
 **Origine:**
 
