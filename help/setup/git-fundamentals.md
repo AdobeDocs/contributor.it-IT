@@ -1,13 +1,9 @@
 ---
 title: Nozioni di base sulla documentazione Git e GitHub
 seo-title: Nozioni di base sulla documentazione Git e GitHub
-description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub,
-  il modo in cui il contenuto viene organizzato e le convenzioni di denominazione
-  che vengono utilizzate per la documentazione di Adobe.
-seo-description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub,
-  il modo in cui il contenuto viene organizzato e le convenzioni di denominazione
-  che vengono utilizzate per la documentazione di Adobe.
-translation-type: tm+mt
+description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub, il modo in cui il contenuto viene organizzato e le convenzioni di denominazione che vengono utilizzate per la documentazione di Adobe.
+seo-description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub, il modo in cui il contenuto viene organizzato e le convenzioni di denominazione che vengono utilizzate per la documentazione di Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -22,7 +18,7 @@ In qualità di collaboratore al contenuto della documentazione di Adobe, puoi in
 
 Git è un sistema di controllo della versione open source che consente la collaborazione. Più collaboratori possono lavorare su file che risiedono in degli *archivi*.
 
-GitHub è un servizio di hosting basato su Web per archivi Git, come ad esempio quelli utilizzati per archiviare il contenuto di [docs.adobe.com](https://docs.adobe.com). Per qualsiasi progetto, GitHub ospita l’archivio principale, dal quale i collaboratori possono effettuare copie per il proprio lavoro.
+GitHub è un servizio di hosting basato su Web per gli archivi Git, ad esempio quelli utilizzati per archiviare i contenuti di [docs.adobe.com](https://docs.adobe.com). Per qualsiasi progetto, GitHub ospita l’archivio principale, dal quale i collaboratori possono effettuare copie per il proprio lavoro.
 
 ## Git
 
@@ -30,7 +26,7 @@ Git dispone di un flusso di lavoro e di una terminologia univoci per supportare 
 
 Git utilizza inoltre una struttura a livelli per archiviare e gestire il contenuto per un progetto:
 
-- *Archivio*: anche noto come *repo*, è l’unità di archiviazione di livello più alto. Un archivio contiene uno o più rami.
+- *Archivio*: anche noto come *repo* o repository, è l’unità di archiviazione di livello più alto. Un archivio contiene uno o più rami.
 - *Ramo*: tutti gli archivi contengono un ramo predefinito (in genere denominato “principale”) e uno o più rami destinati a essere uniti nuovamente al ramo principale. Il ramo principale rappresenta la versione corrente e la fonte dalla quale il contenuto viene pubblicato. È l’elemento superiore da cui vengono creati tutti gli altri rami nell’archivio.
 
 I collaboratori interagiscono con Git per aggiornare e manipolare archivi a livello locale e di GitHub:
