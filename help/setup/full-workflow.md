@@ -1,13 +1,10 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Flusso di lavoro dei contributi GitHub per modifiche principali
-seo-title: Flusso di lavoro dei contributi GitHub per modifiche principali alla documentazione
-  di Adobe
-description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale”
-  per collaboratori per apportare contributi alla documentazione di Adobe.
-seo-description: Il presente articolo illustra come utilizzare il flusso di lavoro
-  “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
-translation-type: tm+mt
+seo-title: Flusso di lavoro dei contributi GitHub per modifiche principali alla documentazione di Adobe
+description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
+seo-description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
@@ -55,7 +52,7 @@ L’isolamento delle modifiche correlate a un ramo specifico consente di control
 >[!NOTE]
 >Apportare le modifiche nel ramo principale *non è buona prassi*. Immagina di utilizzare il ramo principale per introdurre un set di modifiche per il rilascio pianificato di una funzione. Hai terminato le modifiche e sei in attesa del rilascio. Nel frattempo ricevi una richiesta urgente per correggere qualcosa, quindi apporti la modifica a un file nel ramo principale e la pubblichi. In questo esempio, pubblichi inavvertitamente sia la correzione *sia* le modifiche che stavi tenendo per il rilascio in una data specifica.
 
-La fase successiva consiste nel creare un nuovo ramo di lavoro nell’archivio locale per acquisire le modifiche proposte. Ciascun client Git è diverso, quindi consulta l’Aiuto per il tuo client preferito. Puoi vedere una panoramica del processo nella Guida GitHub sul [Flusso GitHub](https://guides.github.com/introduction/flow/).
+La fase successiva consiste nel creare un nuovo ramo di lavoro nell’archivio locale per acquisire le modifiche proposte. Ciascun client Git è diverso, quindi consulta l’Aiuto per il tuo client preferito. Puoi vedere una panoramica del processo nella Guida di GitHub sul [flusso GitHub](https://guides.github.com/introduction/flow/).
 
 ## Elaborazione della richiesta di pull
 
