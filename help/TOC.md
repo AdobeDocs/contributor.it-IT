@@ -12,13 +12,13 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Esercitazioni
 tutorials-url: https://helpx.adobe.com/it/experience-cloud/tutorials.html
 test-meta: test
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
 
-# Guida collaboratore per la documentazione di Adobe{#contributor-guide}
+# Guida per i collaboratori per la documentazione di Adobe{#contributor-guide}
 
 + [Introduzione](introduction.md)
 + Configurazione con GitHub {#setup}
@@ -27,7 +27,7 @@ source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
    + [Configurare un archivio Git locale](setup/local-repo.md)
    + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
    + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
-+ Nozioni di base di scrittura {#writing-essentials}
++ Nozioni di base sulla scrittura {#writing-essentials}
    + [Utilizzo di Markdown](writing-essentials/markdown.md)
    + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
    + [Collegamento](writing-essentials/linking.md)
