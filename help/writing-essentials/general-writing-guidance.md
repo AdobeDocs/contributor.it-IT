@@ -1,17 +1,15 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
+lastModified: '2018-06-28'
 title: Indicazioni sulla scrittura per la documentazione di Adobe
 seo-title: Indicazioni sulla scrittura per la documentazione di Adobe
-description: Il presente articolo include indicazioni fondamentali per contribuire
-  alla documentazione di Adobe.
-seo-description: Il presente articolo include indicazioni fondamentali per contribuire
-  alla documentazione di Adobe.
-translation-type: tm+mt
+description: Il presente articolo include indicazioni fondamentali per contribuire alla documentazione di Adobe.
+seo-description: Il presente articolo include indicazioni fondamentali per contribuire alla documentazione di Adobe.
+translation-type: ht
 source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
 
 ---
 
-# Scrittura di indicazioni per la documentazione di Adobe
+# Indicazioni sulla scrittura per la documentazione di Adobe
 
 Queste linee guida sono applicabili se stai creando una nuova documentazione o aggiornando la documentazione esistente.
 
