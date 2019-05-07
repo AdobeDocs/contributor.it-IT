@@ -6,7 +6,7 @@ description: Segui il processo di configurazione degli account per GitHub, richi
 seo-description: Segui il processo di configurazione degli account per GitHub, richiesto per contribuire con dei contenuti alla documentazione di Adobe.
 index: true
 translation-type: ht
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
+source-git-commit: beff041de31171a7ddd8a3b829adea7cc142e046
 
 ---
 
