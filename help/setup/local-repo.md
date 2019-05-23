@@ -3,10 +3,11 @@ title: Configurare localmente l’archivio Git
 seo-title: Configurare localmente l’archivio Git per la documentazione di Adobe
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 seo-description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
-translation-type: ht
-source-git-commit: 223b40e1903c5de90dee90a138967efb02237a42
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Configurare localmente l’archivio Git per la documentazione
 
@@ -27,7 +28,7 @@ Per contribuire alla documentazione di Adobe, puoi effettuare il forking dell’
 
 ## Determinare l’archivio
 
-Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in diversi archivi su [github.com](https://www.github.com/adobedocs).
+Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. [!UICONTROL Adobe Experience Cloud] la documentazione risiede in diversi archivi all&#39;indirizzo [github.com](https://www.github.com/adobedocs).
 
 1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub.)
 
@@ -72,4 +73,4 @@ Questi passaggi presuppongono l’utilizzo di GitHub Desktop. Se utilizzi un cli
 
 1. Utilizza GitHub Desktop per mantenere i file locali sincronizzati con il fork dell’archivio.
 
-Per informazioni dettagliate, consulta la [Documentazione di GitHub Desktop](https://help.github.com/desktop/).
+Per informazioni, consulta [GitHub Desktop Documentation](https://help.github.com/desktop/).
