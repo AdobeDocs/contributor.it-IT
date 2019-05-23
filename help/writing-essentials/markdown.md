@@ -4,10 +4,11 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: ht
-source-git-commit: cda3618353a35ebb7dd73a64777ca1c788f5b72b
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Come utilizzare Markdown per la scrittura della documentazione tecnica
 
@@ -148,8 +149,8 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
 - Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
-- La Web app [Generatore di tabelle Markdown](https://www.tablesgenerator.com/markdown_tables)
-- [Conversione di tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
+- L’app Web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Collegamenti
 
@@ -215,11 +216,11 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-Puoi specificare le proprietà dei blocchi di codice per disattivare i numeri di riga (attivato per impostazione predefinita) o aggiungere un ritorno a capo automatico (disattivato per impostazione predefinita). Utilizza {line-numbers="no"} e {line-wrap="yes"}. Queste proprietà sono estensioni personalizzate Markdown.
+Puoi specificare le proprietà dei blocchi di codice per disattivare i numeri di riga (attivato per impostazione predefinita) o aggiungere un ritorno a capo automatico (disattivato per impostazione predefinita). Utilizza {line-numbers=&quot;no&quot;} e {line-wrap=&quot;yes&quot;}. Queste proprietà sono estensioni personalizzate Markdown.
 
-\`\`\`javascript {line-numbers="no"}
+\`\`\`javascript {line-numbers=&quot;no&quot;}
 function test() {
-console.log("notice the blank line before this function?");
+console.log(&quot;notice the blank line before this function?&quot;);
 \`\`\`
 
 ### Elenchi di definizioni
@@ -258,7 +259,7 @@ Gli articoli Adobe utilizzano Markdown standard per la maggior parte della forma
 - Do not localize
 - Proprietà dei componenti, come ad esempio l’assegnazione di un ID intestazione diverso a un’intestazione
 
-Utilizza il block quote di Markdown ( > ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota. Se devi utilizzare dei sottocomponenti all’interno di componenti, aggiungi un ulteriore livello di block quote (>  >) per la sezione di quel sottocomponente. Ad esempio, una NOTA all’interno di una sezione DONOTLOCALIZE deve iniziare con >    >.
+Utilizza il block quote di Markdown ( &gt; ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota. Se devi utilizzare dei sottocomponenti all’interno di componenti, aggiungi un ulteriore livello di block quote (&gt;  &gt;) per la sezione di quel sottocomponente. Ad esempio, una NOTA all’interno di una sezione DONOTLOCALIZE deve iniziare con &gt;    &gt;.
 
 Alcuni elementi comuni di Markdown come le intestazioni e i blocchi di codice includono proprietà estese. Se devi modificare le proprietà predefinite, aggiungi i parametri tra parentesi graffe /{ /} dopo il componente. Le proprietà estese vengono descritte nel contesto.
 
@@ -388,7 +389,7 @@ Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
-Le e commerciali (&) non sono consentite nei titoli. Utilizza invece “e” oppure la codifica `&amp;`.
+Le e commerciali (&amp;) non sono consentite nei titoli. Utilizza invece “e” oppure la codifica `&amp;`.
 
 ## Vedi anche
 
