@@ -4,10 +4,11 @@ title: Installare gli strumenti di creazione
 seo-title: Installare gli strumenti di creazione Git e GitHub per la documentazione di Adobe
 description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica di file Markdown.
 seo-description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica dei file Markdown per la documentazione di Adobe.
-translation-type: ht
-source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
+translation-type: tm+mt
+source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
+
 
 # Installare gli strumenti di creazione
 
@@ -20,15 +21,15 @@ source-git-commit: c52ce435e8bbd6a4666cf9b5f46ccfc8b12c170f
 
 ## Installare gli strumenti client Git
 
-Per uno strumento di interfaccia grafica che faciliti la sincronizzazione dei file locali con i file del server, scarica [GitHub Desktop](https://desktop.github.com/). Altre opzioni comuni includono la [pagina dei client GUI disponibili di Software Freedom Conservancy](https://git-scm.com/downloads/guis) o [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
+Per uno strumento di interfaccia grafica che faciliti la sincronizzazione dei file locali con i file del server, scarica [GitHub Desktop](https://desktop.github.com/). Altre opzioni comuni includono [la pagina dei client GUI disponibili di Software Freedom Conservancy](https://git-scm.com/downloads/guis) o [Microsoft Visual Studio Code](https://www.visualstudio.com/products/code-vs.aspx).
 
-Se preferisci un’interfaccia basata su riga di comando (CLI) invece di un’interfaccia grafica (GUI), installa la versione più recente degli [strumenti client Git di Software Freedom Conservancy](https://git-scm.com/downloads). L’installazione include il sistema di controllo della versione Git e Git Bash, l’app della riga di comando che può essere utilizzata per interagire con l’archivio Git locale.
+Se preferisci un’interfaccia a riga di comando (CLI) rispetto a un’interfaccia grafica (GUI), installa la versione più recente degli [strumenti client Git di Software Freedom Conservancy](https://git-scm.com/downloads). L’installazione include il sistema di controllo della versione Git e Git Bash, l’app della riga di comando che può essere utilizzata per interagire con l’archivio Git locale.
 
 Le risorse di apprendimento per Git sono disponibili qui:
 
-* [Nozioni di base di Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* [Nozioni di base su Git](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 * [Apprendimento di Git e GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
-* [Terminologia di Git](https://help.github.com/articles/github-glossary)
+* [Terminologia Git](https://help.github.com/articles/github-glossary)
 
 ## Comprendere gli editor per Markdown
 
