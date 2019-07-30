@@ -5,7 +5,7 @@ seo-title: Passaggi per la configurazione dell’account Github per la documenta
 description: Segui il processo di configurazione degli account per GitHub, richiesto per contribuire con dei contenuti alla documentazione di Adobe.
 seo-description: Segui il processo di configurazione degli account per GitHub, richiesto per contribuire con dei contenuti alla documentazione di Adobe.
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -27,7 +27,7 @@ Identifica eventuali affiliazioni nel profilo GitHub. L’identificazione consen
 
 Tutti i contributi di terze parti a questo progetto devono essere accompagnati da un Contratto di licenza da collaboratore firmato. Ciò consente ad Adobe di ridistribuire i contributi come parte del progetto.
 
-1. Firmare il [Contratto di licenza Collaboratore (CLA)](http://opensource.adobe.com/cla.html) se è accettabile.
+1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
 ## Dipendenti Adobe
 
