@@ -4,7 +4,7 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
 
 ---
@@ -149,8 +149,8 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
 - Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
-- L’app Web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
+- La Web app [Generatore di tabelle Markdown](https://www.tablesgenerator.com/markdown_tables)
+- [Conversione di tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Collegamenti
 
@@ -332,7 +332,7 @@ Parole, frasi e altri elementi devono essere dichiarati ai sistemi di traduzione
 
 Per parole o frasi che non devono essere localizzate, utilizza l’estensione `[!DNL]` per racchiudere la parola o la sezione.
 
-Per gli elementi nell’interfaccia utente e i menu di una soluzione, si utilizza l’estensione `[!UICONTROL]`.
+Per gli elementi nell’interfaccia utente e i menu di una soluzione, si utilizza l’estensione ``.
 
 **Esempio:**
 
