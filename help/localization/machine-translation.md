@@ -4,24 +4,24 @@ seo-title: Supporto linguistico per la documentazione di prodotto Adobe Experien
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica [!UICONTROL Adobe Experience Cloud].
 translation-type: tm+mt
-source-git-commit: 6c4ff238f6fa4287b9032a123959db3666cb463c
+source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
 
 ---
 
 
 # Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud
 
-Adobe riconosce che i clienti si affidano alla documentazione del prodotto, all'Aiuto e al contenuto di supporto per essere prontamente disponibili nelle lingue supportate dai prodotti Adobe. Per realizzare questo obiettivo, Adobe offre un'esperienza di traduzione unica che consente di selezionare la lingua desiderata e di fornire feedback sulla qualità dei contenuti tradotti.
+Adobe è consapevole del fatto che i clienti si aspettano che la documentazione di prodotto, le guide e il contenuto di supporto siano subito disponibili nelle lingue supportate dai prodotti Adobe. Per realizzare questo obiettivo, Adobe offre un’esperienza di traduzione unica che consente di selezionare la lingua desiderata e di fornire un feedback sulla qualità dei contenuti tradotti.
 
-## Selezionare una lingua
+## Selezione di una lingua
 
-Puoi visualizzare la documentazione di Adobe Experience Cloud nella maggior parte delle lingue.
+Puoi visualizzare la documentazione di prodotto di Adobe Experience Cloud in molte lingue.
 
 1. Passa alla documentazione [di](https://helpx.adobe.com/support/experience-cloud.html)prodotto Experience Cloud.
 
 1. Individuate la pagina della guida (ad esempio, [Analytics](https://docs.adobe.com/content/help/en/analytics/landing/home.html)).
 
-1. Fate clic sul selettore lingua (icona del mondo), quindi scegliete una lingua.
+1. Fai clic sul Selettore lingua (icona a forma di mondo), quindi scegli una lingua.
 
    ![Selettore lingua](assets/language-dropdown.png)
 
@@ -29,38 +29,48 @@ Puoi visualizzare la documentazione di Adobe Experience Cloud nella maggior part
 
    ![Pagina tradotta](assets/french.png)
 
-   Se la versione della lingua non è ancora disponibile, Adobe può tradurre automaticamente i contenuti. Il servizio di traduzione automatica di Adobe visualizza un messaggio nella parte superiore della pagina in un campo blu:
+   Nel caso in cui la versione nella tua lingua non è ancora disponibile, Adobe può tradurre automaticamente i contenuti. Il servizio di traduzione automatica di Adobe mostra un messaggio in cima alla pagina in un riquadro azzurro:
 
    ![Messaggio di traduzione](assets/machine-translation-message.png)
 
-   È possibile che il rendering del contenuto venga eseguito automaticamente nella lingua desiderata, oppure che si faccia clic su un collegamento per attivare la traduzione. (Questo scenario si verifica quando si fa clic sul collegamento ipertestuale per tornare alla fonte inglese dalla pagina tradotta. Consente di visualizzare la pagina convertita su richiesta.) È possibile tornare in qualsiasi momento alla fonte inglese.
+   Il contenuto può essere reso automaticamente nella tua lingua, oppure puoi cliccare su un link per attivare la traduzione. (Questo può verificarsi quando si clicca sul collegamento ipertestuale per tornare alla pagina originale in inglese dalla pagina tradotta. Ti dà la possibilità di visualizzare la pagina tradotta su richiesta.) In qualsiasi momento è possibile tornare alla pagina originale in inglese.
 
-   Talvolta, il contenuto sorgente inglese potrebbe essere stato aggiornato e pubblicato di recente prima del completamento delle traduzioni. Facendo clic sulla lingua nel menu a discesa, verrà visualizzata una notifica: nella barra orizzontale blu chiaro nella parte superiore della pagina — per informare che la pagina è stata automaticamente tradotta dalla versione precedente, con contenuto aggiornato disponibile a breve. Se preferite, potrete visualizzare il contenuto sorgente inglese più recente in una nuova finestra del browser.
+   Talvolta, il contenuto originale inglese potrebbe essere stato recentemente aggiornato e pubblicato prima che le traduzioni fossero state completate. Facendo clic sulla lingua nel menu a discesa, verrà visualizzata una notifica, nel riquadro orizzontale azzurro nella parte superiore della pagina, che informa che la pagina è stata tradotta automaticamente a partire dalla versione precedente, con contenuto aggiornato disponibile a breve. In tal caso, puoi scegliere se visualizzare il contenuto originale in inglese più recente in una nuova finestra del browser.
 
 ## Perché utilizzare la traduzione automatica
 
-Adobe sfrutta le funzionalità di traduzione automatica per pubblicare contenuti di supporto dei prodotti in diverse lingue, il più vicino possibile ai tempi di creazione dei contenuti. Poiché il contenuto di supporto è fondamentale per l'utilizzo del prodotto, diamo priorità alla traduzione dei contenuti da parte di professionisti qualificati, ma possiamo anche scegliere la traduzione automatica dove la velocità e l'urgenza contano di più.
+Adobe sfrutta le potenzialità della traduzione automatica per pubblicare contenuti di supporto dei prodotti in diverse lingue, in tempi più brevi possibili rispetto alla creazione dei contenuti stessi. Poiché i contenuti di supporto sono fondamentali per l’utilizzo del prodotto, diamo la priorità alla traduzione di contenuti da parte di professionisti qualificati, ma possiamo anche optare per la traduzione automatica dove la velocità e l’urgenza contano di più.
 
-La traduzione automatica è onnipresente su Internet e il suo utilizzo è generalmente accettato come un potente strumento di raccolta delle informazioni. È stato ampiamente adottato per il contenuto di conoscenze di base, dove può esserci poco o niente intervento umano. Sebbene negli ultimi anni vi siano stati importanti progressi tecnologici, le traduzioni generate automaticamente possono contenere occasionali imprecisioni ed errori nella lingua e nel significato.
+La traduzione automatica è onnipresente su Internet e il suo utilizzo è generalmente accettato come un potente strumento di raccolta delle informazioni. È stata ampiamente adottata per i contenuti con base di conoscenza, dove l’intervento umano risulta poco o per niente necessario. Anche se negli ultimi anni sono stati compiuti importanti progressi tecnologici, le traduzioni generate automaticamente possono contenere imprecisioni ed errori di linguaggio e significato sporadici.
 
 ### Traduzione automatica tramite il browser
 
-Se avete impostato le preferenze del browser per tradurre automaticamente una pagina nella lingua, tenete presente che le traduzioni risultanti saranno diverse da quelle ottenute tramite la pagina Adobe. Questo perché il servizio offerto dal browser potrebbe essere traduzioni stock, mentre le traduzioni Adobe saranno state personalizzate in base alle linee guida e alla terminologia di Adobe. Per ottenere risultati di traduzione automatica ottimali, si consiglia di disabilitare l'opzione del browser per questo sito specifico nelle preferenze del browser, oppure di fare clic su **Mai tradurre** quando viene visualizzato.
+Se hai impostato le preferenze del tuo browser in modo da tradurre automaticamente qualsiasi pagina nella tua lingua, le traduzioni risultanti saranno diverse da quelle ottenute attraverso la pagina Adobe. Questo perché il servizio offerto dal browser potrebbe consistere di traduzioni in serie, mentre le traduzioni Adobe sono personalizzate in base alle linee guida e alla terminologia di Adobe. Per ottenere risultati di traduzione automatica ottimali, ti consigliamo di disabilitare l’opzione del browser per questo sito specifico nelle preferenze del browser, oppure di fare clic su **Non tradurre** quando visualizzato.
 
 ### Problemi noti
 
-Talvolta potrebbero verificarsi problemi con l'output di traduzione automatica, ad esempio traduzioni incomplete, caratteri danneggiati o problemi di layout della pagina. Questi sono causati dai vari strumenti di authoring, pubblicazione o traduzione utilizzati da Adobe. Faremo tutto il possibile per elencare i problemi noti qui di seguito.
+Talvolta potrebbero verificarsi problemi con il rendimento della traduzione automatica, ad esempio traduzioni incomplete, caratteri danneggiati o problemi di layout della pagina. Questi sono dovuti a vari strumenti di scrittura, pubblicazione o traduzione utilizzati da Adobe. Faremo tutto il possibile per elencare i problemi noti qui di seguito.
 
 | **ID PROBLEMA** | **DESCRIZIONE** | **STATO** |
 |--------------|-------------------------------------------------------------------------------------|------------|
-| G11N3558 | Alcune pagine di Audience Manager sono tradotte per metà in inglese e per metà in spagnolo. | APRI |
+| G11N3558 | Alcune pagine di Audience Manager sono visualizzate per metà in inglese e per metà tradotte (francese, spagnolo). | APERTO |
 
-### Feedback 
+### Feedback
 
-Ogni volta che il contenuto viene tradotto automaticamente, per impostazione predefinita o per azione dell'utente, è possibile fornire ad Adobe un feedback sulle traduzioni. Nella barra orizzontale azzurra nella parte superiore della pagina, è possibile rispondere "Sì" o "No" alla domanda, "Questa traduzione è stata utile?". Adobe raccoglie questa metrica di valore e analizza i dati compilati per prendere decisioni sulla traduzione dei contenuti. Apprezziamo il vostro feedback e vi incoraggiamo a rispondere.
+Quando il contenuto viene tradotto automaticamente, per impostazione predefinita o per scelta dell’utente, è possibile fornire ad Adobe un feedback sulle traduzioni. Nel
+riquadro orizzontale azzurro nella parte superiore della pagina, puoi rispondere “Sì” o “No” alla domanda: “Questa traduzione è stata utile?”. Adobe raccoglie quest’informazione
+e analizza i dati compilati per prendere decisioni sulla traduzione dei contenuti. Apprezziamo il tuo feedback e ti incoraggiamo a rispondere.
 
-![Feedback ](assets/machine-translation-feedback.png)
+![Feedback](assets/machine-translation-feedback.png)
 
-In futuro, vi consentiremo di fornire feedback più approfonditi, sotto forma di registrazione di un problema, miglioramenti suggeriti e persino richieste di ulteriori lingue. Alcune di queste funzioni sono già disponibili nelle pagine in inglese. A lungo termine, crediamo che questo aiuterà Adobe a migliorare l'esperienza utente su queste pagine.
+In futuro, consentiremo di fornire feedback più approfonditi, sotto forma di segnalazione di problemi, proposte di miglioramenti e persino richieste
+di ulteriori lingue. Alcune di queste funzioni sono già disponibili nelle pagine in inglese. A lungo termine, crediamo che questo aiuterà Adobe a migliorare
+l’esperienza utente sulle sue pagine.
 
-![Migliorare questa pagina](assets/feedback.png)
+![Migliora questa pagina](assets/feedback.png)
+
+### Dichiarazione di non responsabilità sulla traduzione
+
+Adobe utilizza un programma di traduzione automatica per tradurre il testo in diverse lingue. Le traduzioni informatizzate sono traduzioni letterali e possono contenere errori. Adobe non garantisce l'accuratezza, l'affidabilità o la tempestività delle traduzioni fornite. Adobe non sarà responsabile di eventuali perdite o danni subiti a causa dell'affidabilità o dell'accuratezza delle informazioni tradotte. Se ci sono differenze tra l'inglese e un'altra lingua, la versione inglese controlla.
+
+Se desiderate segnalare un errore di traduzione o un errore di inesattezza, vi invitiamo a contattarci.
