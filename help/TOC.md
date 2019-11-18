@@ -12,7 +12,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Esercitazioni
 tutorials-url: https://helpx.adobe.com/it/experience-cloud/tutorials.html
 test-meta: test
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: cc70a5ea1be2a7e7c8d3a685c500b6bf33824cea
 
 ---
@@ -31,7 +31,7 @@ source-git-commit: cc70a5ea1be2a7e7c8d3a685c500b6bf33824cea
    + [Utilizzo di Markdown](writing-essentials/markdown.md)
    + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
    + [Collegamento](writing-essentials/linking.md)
-+ Feedback di traduzione {#localization}
++ Feedback sulla traduzione {#localization}
    + [Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud](localization/machine-translation.md)
 + [Risorse di apprendimento Git e GitHub](resources.md)
 + Condotta e contributi {#conduct-contributions}
