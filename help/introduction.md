@@ -3,7 +3,7 @@ title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica [!UICONTROL Adobe Experience Cloud].
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ---
@@ -13,7 +13,7 @@ source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
 
 ## Cos’è la documentazione di collaborazione
 
-Durante il 2019, tutta la documentazione tecnica e i contenuti di supporto per Adobe Experience Cloud passeranno a una nuova piattaforma, in base ai principi open source, utilizzando le soluzioni Github, Markdown e Adobe Experience Cloud, inclusi Adobe Experience Manager, Analytics, Launch e Target.
+Durante il 2019, tutta la documentazione tecnica e i contenuti di supporto per Adobe Experience Cloud passeranno a una nuova piattaforma, in base ai principi open source, utilizzando le soluzioni GitHub, Markdown e Adobe Experience Cloud, inclusi Adobe Experience Manager, Analytics, Launch e Target.
 
 Questo modello open source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
 
@@ -38,7 +38,7 @@ Questa guida delinea tutti gli elementi necessari per interagire con e contribui
 
 Apportare delle modifiche rapide è un modo utile per correggere piccoli errori e omissioni nei documenti. Se un articolo visualizza un pulsante di modifica come mostrato di seguito, puoi apportare autonomamente una correzione rapida. Quando modifichi il documento, invii una richiesta di pull (PR) per inviare la correzione o il suggerimento e quest’ultimo può essere esaminato, approvato e pubblicato.
 
-1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptible.
+1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
 1. Fai clic su **`Edit this page`** nella colonna di destra per passare al file Markdown di origine su GitHub.
@@ -50,7 +50,7 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
    ![Posizione dell’icona della matita](assets/edit-icon.png)
 
 1. Apporta le modifiche nell’editor Web. Puoi fare clic sulla scheda **Preview changes** per controllare la formattazione delle modifiche.
-1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina. Immetti un titolo e una descrizione per la PR e fai clic su **Suggest file change** come mostrato nella figura seguente:
+1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina. Immetti un titolo e una descrizione per la PR e fai clic su **Propose file change** come mostrato nella figura seguente:
 
    ![Proporre le tue modifiche](assets/submit-pull-request.png)
 
