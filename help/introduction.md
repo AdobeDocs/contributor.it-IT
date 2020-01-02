@@ -3,8 +3,8 @@ title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: 3a769e92e724694b17c5412303d533c7402f5cd0
+translation-type: tm+mt
+source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
 
 ---
 
@@ -38,10 +38,10 @@ Questa guida delinea tutti gli elementi necessari per interagire con e contribui
 
 Apportare delle modifiche rapide è un modo utile per correggere piccoli errori e omissioni nei documenti. Se un articolo visualizza un pulsante di modifica come mostrato di seguito, puoi apportare autonomamente una correzione rapida. Quando modifichi il documento, invii una richiesta di pull (PR) per inviare la correzione o il suggerimento e quest’ultimo può essere esaminato, approvato e pubblicato.
 
-1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
+1. Sign the [Contributor License Agreement (CLA)](http://opensource.adobe.com/cla.html) if acceptable.
 
    È necessario inviare un Adobe CLA una sola volta.
-1. Fai clic su **`Edit this page`** nella colonna di destra per passare al file Markdown di origine su GitHub.
+1. Fai clic su **`Edit this page`**nella colonna di destra per passare al file Markdown di origine su GitHub.
 1. Fai clic sull’icona della matita per modificare l’articolo.
 
    > [!NOTE]
@@ -54,7 +54,7 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 
    ![Proporre le tue modifiche](assets/submit-pull-request.png)
 
-   >[!NOTE] Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **Dettagli** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
+   >[!NOTE] Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **Dettagli** per aprire il contratto di licenza. Se accettabile, firmate l&#39;accordo. Quindi chiudi e apri la richiesta di pull e continua.
 
 Tutto qui. Grazie. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull.
 
