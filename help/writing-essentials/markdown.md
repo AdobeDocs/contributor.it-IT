@@ -4,7 +4,7 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 883f9d7a9a232fdb69db09d5e9409575c7f3bdd0
 
 ---
@@ -58,7 +58,7 @@ This is not \*italicized\* type.
 
 ### Elenchi numerati ed elenchi puntati
 
-To create numbered lists, begin a line with `1.` or `1)`, but don&#39;t use both formats within the same list. Non è necessario specificare i numeri, che sono gestiti automaticamente da GitHub.
+Per creare elenchi numerati, inizia una riga con `1.` o `1)`, ma non combinare i formati all’interno dello stesso elenco. Non è necessario specificare i numeri, che sono gestiti automaticamente da GitHub.
 
 ```markdown
 1. This is step 1.
@@ -73,7 +73,7 @@ Visualizzato:
 1. Questo è un ulteriore passaggio, il terzo.
 
 <!-- markdownlint-disable MD037 -->
-Per creare degli elenchi puntati, inizia una riga con \* o - o + ma non combinare i formati all’interno dello stesso elenco (non mescolare formati punto elenco, ad esempio \* e \+, all&#39;interno dello stesso documento.)
+Per creare degli elenchi puntati, inizia una riga con \* o - o + ma non combinare i formati all’interno dello stesso elenco (non mescolare formati punto elenco, ad esempio \* e \+ all’interno dello stesso documento).
 <!-- markdownlint-disable MD037 -->
 
 ```markdown
@@ -149,7 +149,7 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
 * Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
-* L’app Web [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+* La web app [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
 ### Collegamenti
@@ -166,7 +166,7 @@ Visualizzato:
 
 [Adobe](https://www.adobe.com)
 
-Per i collegamenti agli articoli (rimandi) all’interno dell’archivio, utilizza i collegamenti relativi. Puoi utilizzare tutti gli operandi di collegamento relativo, come ad esempio./ (directory corrente), ../ (indietro di una directory), e ../../ (indietro di due directory).
+Per i collegamenti agli articoli (rimandi) all’interno dell’archivio, utilizza i collegamenti relativi. Puoi utilizzare tutti gli operandi di collegamento relativo, come ad esempio ./ (directory corrente), ../ (indietro di una directory), e ../../ (indietro di due directory).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -188,7 +188,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza gli apici retroversi ( \` ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (\`\`\`) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: \`\`\`javascript
+Utilizza gli apici retroversi ( \` ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (\`\`\`) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: \`\`\`javascript
 
 Esempi:
 
@@ -320,8 +320,8 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 Visualizzato:
 
 >[!MORELIKETHIS]
->* [Articolo 1](https://helpx.adobe.com/support/analytics.html)
->* [Articolo 2](https://helpx.adobe.com/support/audience-manager.html)
+>* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
+>* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
 
 ### DNL (Do not localize) e UICONTROL
@@ -331,7 +331,7 @@ Parole, frasi e altri elementi devono essere dichiarati ai sistemi di traduzione
 
 Per parole o frasi che non devono essere localizzate, utilizza l’estensione `[!DNL]` per racchiudere la parola o la sezione.
 
-Per gli elementi nell’interfaccia utente e i menu di una soluzione, si utilizza l’estensione ``.
+Per gli elementi nell’interfaccia utente e i menu di una soluzione, si utilizza l’estensione ``.
 
 **Esempio:**
 
