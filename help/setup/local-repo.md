@@ -3,8 +3,11 @@ title: Configurare localmente l’archivio Git
 seo-title: Configurare localmente l’archivio Git per la documentazione di Adobe
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 seo-description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
-translation-type: ht
-source-git-commit: e7382ef4aefc69c6b4e7d78b7f34eaf897596eaf
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '682'
+ht-degree: 97%
 
 ---
 
@@ -28,7 +31,7 @@ Per contribuire alla documentazione di Adobe, puoi effettuare il forking dell’
 
 ## Determinare l’archivio
 
-Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in diversi archivi su [github.com](https://www.github.com/adobedocs).
+Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. [!UICONTROL Adobe Experience Cloud] la documentazione si trova in diversi archivi differenti su [github.com](https://www.github.com/adobedocs).
 
 1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub.)
 
@@ -58,8 +61,9 @@ Utilizzando l’archivio appropriato, crea un fork dell’archivio nell’accoun
 
    Alcuni archivi possono essere di grandi dimensioni. Scegli una posizione con spazio su disco disponibile.
 
-   > [!NOTE]
-   > Evita di scegliere il percorso di una cartella locale nidificata all’interno della posizione di un’altra cartella dell’archivio Git. Sebbene sia accettabile archiviare le cartelle clonate Git in modo che siano adiacenti le une alle altre, la nidificazione delle cartelle Git l’una nell’altra causa errori per il tracciamento dei file.
+   >[!NOTE]
+   >
+   >Evita di scegliere il percorso di una cartella locale nidificata all’interno della posizione di un’altra cartella dell’archivio Git. Sebbene sia accettabile archiviare le cartelle clonate Git in modo che siano adiacenti le une alle altre, la nidificazione delle cartelle Git l’una nell’altra causa errori per il tracciamento dei file.
 
 ## Creare un clone locale dell’archivio
 
@@ -73,4 +77,4 @@ Questi passaggi presuppongono l’utilizzo di GitHub Desktop. Se utilizzi un cli
 
 1. Utilizza GitHub Desktop per mantenere i file locali sincronizzati con il fork dell’archivio.
 
-Per informazioni dettagliate, consulta la [Documentazione di GitHub Desktop](https://help.github.com/desktop/).
+Per informazioni, consulta [GitHub Desktop Documentation](https://help.github.com/desktop/).
