@@ -3,8 +3,11 @@ title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: afcd9363375adbc21a0e9a027d3f5ce59e08cd70
+translation-type: tm+mt
+source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+workflow-type: tm+mt
+source-wordcount: '840'
+ht-degree: 100%
 
 ---
 
@@ -44,8 +47,9 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 1. Fai clic **`Edit this page`** nella colonna di destra per passare al file Markdown di origine su GitHub.
 1. Fai clic sull’icona della matita per modificare l’articolo.
 
-   > [!NOTE]
-   > Se l’icona della matita è disattivata, devi accedere all’account GitHub oppure creare un nuovo account.
+   >[!NOTE]
+   >
+   >Se l’icona della matita è disattivata, devi accedere all’account GitHub oppure creare un nuovo account.
 
    ![Posizione dell’icona della matita](assets/edit-icon.png)
 
@@ -54,7 +58,9 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 
    ![Proporre le tue modifiche](assets/submit-pull-request.png)
 
-   >[!NOTE] Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **Dettagli** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
+   >[!NOTE]
+   >
+   >Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **Dettagli** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
 
 Tutto qui. Grazie. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull.
 
@@ -66,8 +72,9 @@ Un altro semplice modo per riportare un problema con dei contenuti è “Segnala
 
    ![](assets/git_log_issue.png)
 
-   > [!NOTE]
-   > Per segnalare un problema dovrai accedere all’account GitHub o creare un nuovo account.
+   >[!NOTE]
+   >
+   >Per segnalare un problema dovrai accedere all’account GitHub o creare un nuovo account.
 
    Facendo clic su questo collegamento, potrai registrare una segnalazione rapida utilizzando l’interfaccia GitHub Issue.
 
