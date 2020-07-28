@@ -1,11 +1,14 @@
 ---
-lastModified: '2018-06-28'
+lastModified: 2018-06-28T00:00:00Z
 title: Utilizzo di collegamenti nella documentazione
 seo-title: Utilizzo di collegamenti nella documentazione Git/Markdown di Adobe
 description: Questo articolo fornisce indicazioni sulla creazione di collegamenti a contenuti e immagini.
 seo-description: Questo articolo fornisce indicazioni sulla creazione di collegamenti a contenuti e immagini per la documentazione di Adobe.
-translation-type: ht
-source-git-commit: 9060d24142e0f03283b42a2a4bbc638abe2952aa
+translation-type: tm+mt
+source-git-commit: 73ec3b8b63769a192ee16bec2720930ea6a9aaed
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 100%
 
 ---
 
@@ -14,8 +17,8 @@ source-git-commit: 9060d24142e0f03283b42a2a4bbc638abe2952aa
 
 Questo articolo descrive l’utilizzo dei collegamenti ipertestuali nelle pagine della documentazione. In Markdown è facile aggiungere collegamenti con poche diverse convenzioni. I collegamenti indicano agli utenti contenuti nella stessa pagina, conducono ad altre pagine o indirizzano a siti e URL esterni.
 
-> [!IMPORTANT]
-> Tutti i collegamenti dovrebbero, idealmente, essere collegamenti protetti (`https` anziché `http`) ogni volta che viene supportato dal target (dovrebbe trattarsi della stragrande maggioranza dei casi).
+>[!IMPORTANT]
+>Tutti i collegamenti dovrebbero, idealmente, essere collegamenti protetti (`https` anziché `http`) ogni volta che viene supportato dal target (dovrebbe trattarsi della stragrande maggioranza dei casi).
 
 ## Collegamento a URL
 
