@@ -4,7 +4,7 @@ seo-title: Configurare localmente l’archivio Git per la documentazione di Adob
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 seo-description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 translation-type: tm+mt
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
+source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 97%
@@ -16,8 +16,8 @@ ht-degree: 97%
 
 Il presente articolo descrive la procedura per configurare un archivio Git sul computer locale, con lo scopo di contribuire alla documentazione di Adobe. I collaboratori possono utilizzare un archivio clonato localmente per aggiungere nuovi articoli, apportare modifiche principali agli articoli esistenti o modificare le immagini.
 
-> [!IMPORTANT]
-> Se apporti solo modifiche minori a un articolo, *non* devi completare i passaggi descritti nel presente articolo. Puoi semplicemente fare clic sull’icona Modifica e apportare modifiche testuali nel browser.
+>[!IMPORTANT]
+>Se apporti solo modifiche minori a un articolo, *non* devi completare i passaggi descritti nel presente articolo. Puoi semplicemente fare clic sull’icona Modifica e apportare modifiche testuali nel browser.
 
 ## Panoramica
 
