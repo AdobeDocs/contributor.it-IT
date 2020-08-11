@@ -3,11 +3,11 @@ title: Configurare localmente l’archivio Git
 seo-title: Configurare localmente l’archivio Git per la documentazione di Adobe
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 seo-description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '682'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,9 +31,9 @@ Per contribuire alla documentazione di Adobe, puoi effettuare il forking dell’
 
 ## Determinare l’archivio
 
-Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. [!UICONTROL Adobe Experience Cloud] la documentazione si trova in diversi archivi differenti su [github.com](https://www.github.com/adobedocs).
+Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in vari archivi su [github.com](https://www.github.com/adobedocs).
 
-1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub.)
+1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub).
 
 Per contribuire alla documentazione di Adobe è possibile creare e modificare localmente i file Markdown clonando l’archivio della documentazione corrispondente. Puoi quindi utilizzare le richieste di pull per unire le modifiche all’archivio condiviso centrale di sola lettura.
 
