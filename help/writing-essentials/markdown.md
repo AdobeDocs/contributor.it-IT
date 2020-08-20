@@ -4,10 +4,10 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: ht
-source-git-commit: 46674c112935a2a98a12210db92129a1bc475c46
-workflow-type: ht
-source-wordcount: '1377'
+translation-type: tm+mt
+source-git-commit: 27ba164070996d192c84493d83232484d2badb28
+workflow-type: tm+mt
+source-wordcount: '1329'
 ht-degree: 100%
 
 ---
@@ -220,13 +220,6 @@ Visualizzato:
 function test() {
  console.log("notice the blank line before this function?");
 ```
-
-Puoi specificare le proprietà dei blocchi di codice per disattivare i numeri di riga (attivato per impostazione predefinita) o aggiungere un ritorno a capo automatico (disattivato per impostazione predefinita). Utilizza {line-numbers=&quot;no&quot;} e {line-wrap=&quot;yes&quot;}. Queste proprietà sono estensioni personalizzate Markdown.
-
-\`\`\`javascript {line-numbers=&quot;no&quot;}
-function test() {
-console.log(&quot;notice the blank line before this function?&quot;);
-\`\`\`
 
 ### Elenchi di definizioni
 
