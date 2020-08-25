@@ -4,9 +4,9 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 27ba164070996d192c84493d83232484d2badb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1329'
 ht-degree: 100%
 
@@ -171,7 +171,7 @@ Visualizzato:
 
 [Adobe](https://www.adobe.com)
 
-Per i collegamenti agli articoli (rimandi) all’interno dell’archivio, utilizza i collegamenti relativi. Puoi utilizzare tutti gli operandi di collegamento relativo, come ad esempio./ (directory corrente), ../ (indietro di una directory), e ../../ (indietro di due directory).
+Per i collegamenti agli articoli (rimandi) all’interno dell’archivio, utilizza i collegamenti relativi. Puoi utilizzare tutti gli operandi di collegamento relativo, come ad esempio ./ (directory corrente), ../ (indietro di una directory), e ../../ (indietro di due directory).
 
 ```markdown
 See [Overview example article](../../overview.md)
@@ -322,8 +322,8 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 Visualizzato:
 
 >[!MORELIKETHIS]
->* [Article 1](https://helpx.adobe.com/it/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/it/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 
 
 ### DNL (Do not localize) e UICONTROL
