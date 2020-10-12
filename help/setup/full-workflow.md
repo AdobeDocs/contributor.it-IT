@@ -4,10 +4,10 @@ title: Flusso di lavoro dei contributi GitHub per modifiche principali
 seo-title: Flusso di lavoro dei contributi GitHub per modifiche principali alla documentazione di Adobe
 description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
 seo-description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '1006'
+translation-type: tm+mt
+source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
+workflow-type: tm+mt
+source-wordcount: '976'
 ht-degree: 100%
 
 ---
@@ -75,5 +75,3 @@ Quando la richiesta di pull è priva di problemi e autorizzata, le modifiche ven
 ### Pubblicazione
 
 Ricorda che la richiesta di pull deve essere unita da un revisore PR prima che le modifiche possano essere incluse nella successiva pubblicazione pianificata. Le richieste di pull vengono normalmente riviste/unite in ordine di invio. Se la richiesta di pull richiede l’unione per una pubblicazione specifica, sarà necessario collaborare anticipatamente con il revisore PR per garantire che l’unione avvenga prima della pubblicazione.
-
-Una volta approvati e uniti i contributi, il processo di pubblicazione di docs.microsoft.com li seleziona. I tempi di pubblicazione possono variare in base al team che gestisce l’archivio a cui stai contribuendo.
