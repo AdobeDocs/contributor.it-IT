@@ -4,9 +4,9 @@ title: Flusso di lavoro dei contributi GitHub per modifiche principali
 seo-title: Flusso di lavoro dei contributi GitHub per modifiche principali alla documentazione di Adobe
 description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
 seo-description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 6ec1d13f80698cb5963c07656ef8183db735ff75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '976'
 ht-degree: 100%
 
