@@ -3,11 +3,11 @@ title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica di [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: c788a71cecf7b69698b649b6053e6740bcc22730
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 8943af2fdf406b2e33db037bb60dfea97df2959a
+workflow-type: tm+mt
+source-wordcount: '837'
+ht-degree: 93%
 
 ---
 
@@ -44,7 +44,10 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
-1. Fai clic **`Edit this page`** nella colonna di destra per passare al file Markdown di origine su GitHub.
+1. Click the **`Edit this page`** icon in the right column to go to the markdown source file on GitHub.
+
+   ![Modifica icona pagina](/help/assets/git_edit.png)
+
 1. Fai clic sull’icona della matita per modificare l’articolo.
 
    >[!NOTE]
@@ -68,13 +71,13 @@ Tutto qui. Grazie. I membri del gruppo della documentazione potranno esaminare e
 
 Un altro semplice modo per riportare un problema con dei contenuti è “Segnalare un problema”.
 
-1. Se noti un problema con uno dei contenuti, fai clic sul collegamento `Log an Issue` in basso a destra di qualsiasi pagina. Vedi la figura seguente:
+1. If you see a problem with a piece of content, click the **`Log an Issue`** icon in the right column.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Per segnalare un problema dovrai accedere all’account GitHub o creare un nuovo account.
+   >Per registrare un problema, dovrete accedere al vostro account GitHub o creare un nuovo account.
 
    Facendo clic su questo collegamento, potrai registrare una segnalazione rapida utilizzando l’interfaccia GitHub Issue.
 
