@@ -1,14 +1,11 @@
 ---
-lastModified: 2018-06-28T00:00:00Z
 title: Come utilizzare Markdown per la scrittura della documentazione
-seo-title: Come utilizzare Markdown per la scrittura della documentazione di Adobe
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
-seo-description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli per la documentazione di Adobe.
-translation-type: ht
-source-git-commit: 4ebbbde3337183a19fd3a59ae091b621a092e6f8
-workflow-type: ht
-source-wordcount: '1322'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '1240'
+ht-degree: 98%
 
 ---
 
@@ -26,11 +23,11 @@ Poiché il contenuto dei documenti Adobe viene archiviato in GitHub, è possibil
 Per creare un’intestazione, utilizza un cancelletto (#) all’inizio di una riga:
 
 ```
-   # This is level 1 (article title)
-   ## This is level 2
-   ### This is level 3
-   #### This is level 4
-   ##### This is level 5
+# This is level 1 (article title)
+## This is level 2
+### This is level 3
+#### This is level 4
+##### This is level 5
 ```
 
 ### Testo di base
@@ -40,18 +37,10 @@ Un paragrafo non richiede una sintassi speciale in Markdown.
 Per formattare il testo in **grassetto**, è necessario racchiuderlo in due asterischi. Per formattare il testo in *corsivo*, è necessario racchiuderlo in un singolo asterisco:
 
 ```markdown
-    This text is **bold**.
-    This text is *italic*.
-    This text is both ***bold and italic***.
+   This text is **bold**.
+   This text is *italic*.
+   This text is both ***bold and italic***.
 ```
-
-<!--
-To format superscript (H<sub>2</sub>O) and subscript (e=mc<sup>2</sup>) text:
-
-```markdown
-This is subscript H<sub>2</sub>O and superscript e=mc<sup>2</sup>.
-```
--->
 
 Per ignorare i caratteri di formattazione di Markdown, utilizza \ prima del carattere:
 
@@ -75,9 +64,7 @@ Visualizzato:
 1. This is the next step.
 1. This is yet another step, the third.
 
-<!-- markdownlint-disable MD037 -->
 Per creare degli elenchi puntati, inizia una riga con \* o - o + ma non combinare i formati all’interno dello stesso elenco (non mescolare formati punto elenco, ad esempio \* e \+ all’interno dello stesso documento).
-<!-- markdownlint-disable MD037 -->
 
 ```markdown
 * First item in an unordered list.
@@ -221,33 +208,6 @@ function test() {
  console.log("notice the blank line before this function?");
 ```
 
-### Elenchi di definizioni
-
-Un elenco di definizioni è un’estensione di Markdown che supporta il componente Elenco di definizioni in AEM. Un elenco di definizioni è costituito da un termine e dalla relativa definizione.
-
-<!--
-
-```markdown
-Frog
-: An amphibious green creature. Likes flies.
-
-Cat
-: A less amphibious creature than frogs.
-```
-
-Displayed:
-
-Frog
-: An amphibious green creature. Likes flies.
-
-Cat
-: A less amphibious creature than frogs.
---->
-
-#### Osservazioni e commenti
-
-I commenti (osservazioni) non vengono visualizzati negli articoli della guida rivolti al pubblico. Tuttavia, i commenti vengono visualizzati nei file Markdown rivolti al pubblico che gli utenti possono visualizzare e modificare.
-
 ## Estensioni personalizzate Markdown
 
 Gli articoli Adobe utilizzano Markdown standard per la maggior parte della formattazione degli articoli, come paragrafi, collegamenti, elenchi e intestazioni. Per una formattazione più completa, gli articoli possono utilizzare funzioni estese di Markdown quali:
@@ -263,12 +223,16 @@ Alcuni elementi comuni di Markdown come le intestazioni e i blocchi di codice in
 
 ### Blocchi per le note
 
-Puoi scegliere tra quattro tipi di blocchi per le note per attirare l’attenzione su contenuti specifici:
+Potete scegliere tra questi tipi di blocchi note per richiamare l’attenzione su contenuti specifici:
 
 * `[!NOTE]`
-* `[!CAUTION]`
 * `[!TIP]`
 * `[!IMPORTANT]`
+* `[!CAUTION]`
+* `[!WARNING]`
+* `[!ADMINISTRATION]`
+* `[!AVAILABILITY]`
+* `[!PREREQUISITES]`
 
 In generale, i blocchi per le note devono essere utilizzati con cautela poiché possono risultare di disturbo. Anche se supportano a loro volta blocchi di codice, immagini, elenchi e collegamenti, prova a mantenere i blocchi per le note semplici e chiari.
 
@@ -307,7 +271,7 @@ I video incorporati non vengono renderizzati in modo nativo in Markdown ma puoi 
 
 Visualizzato:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=ita)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
 
 ### Altri argomenti correlati
 
@@ -386,7 +350,7 @@ Queste sono le codifiche per le versioni “intelligenti” di tali segni di pun
 
 Se utilizzi delle parentesi acute nel testo (non nel codice) del file (ad esempio, per indicare un segnaposto) devi codificare manualmente le parentesi acute. In caso contrario, verranno interpretate da Markdown come un tag HTML.
 
-Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
+Ad esempio, codificare `<script name>` come  `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
