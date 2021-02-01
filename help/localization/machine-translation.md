@@ -1,10 +1,11 @@
 ---
 title: Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud
-seo-title: Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
-seo-description: La guida descrive come contribuire alla documentazione tecnica [!UICONTROL Adobe Experience Cloud].
-translation-type: ht
-source-git-commit: 9db7dd1fb9b22bc35f887d0441a1837813efc9cc
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '653'
+ht-degree: 100%
 
 ---
 
@@ -29,13 +30,15 @@ Puoi visualizzare la documentazione di prodotto di Adobe Experience Cloud in mol
 
    ![Pagina tradotta](assets/french.png)
 
-   Nel caso in cui la versione nella tua lingua non è ancora disponibile, Adobe può tradurre automaticamente i contenuti. Il servizio di traduzione automatica di Adobe mostra un messaggio in cima alla pagina in un riquadro azzurro:
+<!--
+   In cases where your language version is not yet available, Adobe can automatically translate your content. Adobe's automatic translation service displays a message at the top of the page in a blue field:
 
-   ![Messaggio di traduzione](assets/machine-translation-message.png)
+   ![Translation message](assets/machine-translation-message.png)
 
-   Il contenuto può essere reso automaticamente nella tua lingua, oppure puoi cliccare su un link per attivare la traduzione. (Questo può verificarsi quando si clicca sul collegamento ipertestuale per tornare alla pagina originale in inglese dalla pagina tradotta. Ti dà la possibilità di visualizzare la pagina tradotta su richiesta.) In qualsiasi momento è possibile tornare alla pagina originale in inglese.
+   The content may be rendered in your language automatically, or you can click a link to trigger the translation. (This scenario may occur when you have clicked on the hyperlink to return to the English source from the translated page. It gives you the option of viewing the translated page on-demand.) You can at any time return to the English source.
 
-   Talvolta, il contenuto originale inglese potrebbe essere stato recentemente aggiornato e pubblicato prima che le traduzioni fossero state completate. Facendo clic sulla lingua nel menu a discesa, verrà visualizzata una notifica, nel riquadro orizzontale azzurro nella parte superiore della pagina, che informa che la pagina è stata tradotta automaticamente a partire dalla versione precedente, con contenuto aggiornato disponibile a breve. In tal caso, puoi scegliere se visualizzare il contenuto originale in inglese più recente in una nuova finestra del browser.
+   Occasionally, the English source content might have been recently updated and published before the translations were completed. Upon clicking on your language in the dropdown menu, you will see a notification — in the light-blue horizontal bar at the top of the page — informing that the page was automatically translated from the previous version, with updated content to be available soon. You will be offered the choice to view the most recent English source content in a new browser window, if you prefer.
+-->
 
 ## Perché utilizzare la traduzione automatica
 
@@ -67,10 +70,12 @@ In futuro, consentiremo di fornire feedback più approfonditi, sotto forma di se
 di ulteriori lingue. Alcune di queste funzioni sono già disponibili nelle pagine in inglese. A lungo termine, crediamo che questo aiuterà Adobe a migliorare
 l’esperienza utente sulle sue pagine.
 
-![Migliora questa pagina](assets/feedback.png)
+<!--
+![Improve this page](assets/feedback.png)
+-->
 
 ### Dichiarazione di non responsabilità sulla traduzione
 
-Adobe utilizza un programma di traduzione automatica per tradurre il testo in diverse lingue. Le traduzioni informatizzate sono traduzioni letterali e potrebbero contenere errori. Adobe non garantisce l'accuratezza, affidabilità o tempestività delle traduzioni fornite. Adobe non si riterrà responsabile di eventuali perdite o danni subiti a causa dell'affidabilità o dell'accuratezza delle informazioni tradotte. Se ci sono differenze tra l'inglese e un'altra lingua, la versione inglese domina tra le due.
+Adobe utilizza un programma di traduzione automatica per tradurre il testo in diverse lingue. Le traduzioni informatizzate sono traduzioni letterali e potrebbero contenere errori. Adobe non garantisce l&#39;accuratezza, affidabilità o tempestività delle traduzioni fornite. Adobe non si riterrà responsabile di eventuali perdite o danni subiti a causa dell&#39;affidabilità o dell&#39;accuratezza delle informazioni tradotte. Se ci sono differenze tra l&#39;inglese e un&#39;altra lingua, la versione inglese domina tra le due.
 
 Se desideri segnalare un errore di traduzione o un errore di imprecisione, ti invitiamo a contattarci.
