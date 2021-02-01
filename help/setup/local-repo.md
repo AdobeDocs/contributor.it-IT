@@ -1,12 +1,10 @@
 ---
 title: Configurare localmente l’archivio Git
-seo-title: Configurare localmente l’archivio Git per la documentazione di Adobe
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
-seo-description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
-translation-type: ht
-source-git-commit: d69ca7ee25e2a79151779687ef58d67a800f92e6
-workflow-type: ht
-source-wordcount: '682'
+translation-type: tm+mt
+source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+workflow-type: tm+mt
+source-wordcount: '653'
 ht-degree: 100%
 
 ---
