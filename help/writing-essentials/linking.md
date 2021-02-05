@@ -4,9 +4,9 @@ title: Utilizzo di collegamenti nella documentazione
 seo-title: Utilizzo di collegamenti nella documentazione Git/Markdown di Adobe
 description: Questo articolo fornisce indicazioni sulla creazione di collegamenti a contenuti e immagini.
 seo-description: Questo articolo fornisce indicazioni sulla creazione di collegamenti a contenuti e immagini per la documentazione di Adobe.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '340'
 ht-degree: 100%
 
