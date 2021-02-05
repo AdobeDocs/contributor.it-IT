@@ -1,11 +1,11 @@
 ---
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1240'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -223,7 +223,7 @@ Alcuni elementi comuni di Markdown come le intestazioni e i blocchi di codice in
 
 ### Blocchi per le note
 
-Potete scegliere tra questi tipi di blocchi note per richiamare l’attenzione su contenuti specifici:
+Per richiamare l’attenzione su contenuti specifici, puoi scegliere tra questi quattro tipi di blocchi per le note:
 
 * `[!NOTE]`
 * `[!TIP]`
@@ -271,7 +271,7 @@ I video incorporati non vengono renderizzati in modo nativo in Markdown ma puoi 
 
 Visualizzato:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12&captions=ita)
 
 ### Altri argomenti correlati
 
@@ -350,7 +350,7 @@ Queste sono le codifiche per le versioni “intelligenti” di tali segni di pun
 
 Se utilizzi delle parentesi acute nel testo (non nel codice) del file (ad esempio, per indicare un segnaposto) devi codificare manualmente le parentesi acute. In caso contrario, verranno interpretate da Markdown come un tag HTML.
 
-Ad esempio, codificare `<script name>` come  `&lt;script name&gt;`
+Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
