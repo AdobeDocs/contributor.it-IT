@@ -1,9 +1,9 @@
 ---
 title: Installare gli strumenti di creazione
 description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica di file Markdown.
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
 
