@@ -1,8 +1,14 @@
 ---
-source-git-commit: 4d8d741544e5fefe6d186e75ce4157ea127d5b16
-translation-type: ht
+title: Codice di condotta di Adobe
+description: 'Codice di condotta di Adobe '
+translation-type: tm+mt
+source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
+workflow-type: tm+mt
+source-wordcount: '439'
+ht-degree: 100%
 
 ---
+
 # Codice di condotta di Adobe
 
 ## Il nostro impegno
@@ -20,7 +26,7 @@ positivo includono:
 * Concentrarsi sul meglio per la community
 * Mostrare empatia verso altri membri della community
 
-Esempi di comportamenti non accettabili da parte dei partecipanti includono:
+Degli esempi di comportamenti non accettabili dai partecipanti includono:
 
 * L’utilizzo di linguaggio o immagini sessualizzati e di attenzioni o proposte sessuali indesiderate
 * Commenti provocatori, offensivi/dispregiativi e attacchi personali o politici
@@ -40,11 +46,11 @@ Il presente Codice di condotta si applica sia all’interno degli spazi del prog
 
 ## Applicazione
 
-Le occorrenze di comportamenti violenti, offensivi o altrimenti inaccettabili possono essere segnalate contattando il team del progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutti i reclami verranno esaminati e analizzati e risulteranno in una risposta ritenuta necessaria e appropriata alle circostanze. Il team del progetto è obbligato a mantenere la riservatezza rispetto a chi denuncia un incidente.
-Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
+Le occorrenze di comportamenti violenti, offensivi o altrimenti inaccettabili possono essere segnalate contattando il team del progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutti i reclami verranno esaminati e analizzati e risulteranno in una risposta ritenuta necessaria e appropriata alle circostanze. Il team del progetto è obbligato a mantenere la riservatezza rispetto a chi denuncia un incidente. Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
 
 I responsabili del progetto che non seguono o non applicano il Codice di condotta in buona fede possono far fronte a conseguenze temporanee o permanenti in base a quanto determinato da altri membri della direzione del progetto.
 
 ## Attribution
 
-Questo Codice di condotta è stato adattato dal [Contributor Covenant](https://contributor-covenant.org), versione 1.4, disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4,
+disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
