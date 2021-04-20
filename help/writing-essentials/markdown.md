@@ -1,14 +1,14 @@
 ---
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
+exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 translation-type: ht
-source-git-commit: b8090869aa7b5a2ab62f7af09e1b5e289d8a392b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '1491'
 ht-degree: 100%
 
 ---
-
 
 # Come utilizzare Markdown per la scrittura della documentazione tecnica
 
@@ -140,7 +140,7 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
-* Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
+* Da GitHub, [Organizing information with tables](https://docs.github.com/it/github/writing-on-github/organizing-information-with-tables)
 * La web app [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -174,7 +174,7 @@ Per ulteriori informazioni sui collegamenti, consulta l’articolo [Collegamenti
 
 Visualizzato:
 
-![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
+![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
 
 **NOTA:** per le immagini che non devono essere localizzate, crea una cartella `do-not-localize` separata nella cartella delle risorse. In genere, le immagini senza testo o quelle con solo contenuto di esempio vengono collocate in tale cartella. In tal modo la cartella delle risorse resta libera da elementi superflui e riduce la quantità di domande.
 
@@ -374,4 +374,4 @@ Le e commerciali (&amp;) non sono consentite nei titoli. Utilizza invece “e”
 ### Risorse su Markdown
 
 * [Introduzione a Markdown](https://daringfireball.net/projects/markdown/syntax)
-* [Nozioni di base su Markdown di GitHub](https://help.github.com/articles/markdown-basics/)
+* [Nozioni di base su Markdown di GitHub](https://docs.github.com/it/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
