@@ -1,8 +1,13 @@
 ---
-source-git-commit: cbffbc356b4d5a03f93ab319a932a6c4ef979b3e
+exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 translation-type: ht
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+workflow-type: ht
+source-wordcount: '431'
+ht-degree: 100%
 
 ---
+
 # Codice di condotta di Adobe
 
 ## Il nostro impegno
@@ -45,6 +50,7 @@ Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblica
 
 I responsabili del progetto che non seguono o non applicano il Codice di condotta in buona fede possono far fronte a conseguenze temporanee o permanenti in base a quanto determinato da altri membri della direzione del progetto.
 
-## Attribution
+## Attribuzione
 
-Questo Codice di condotta è stato adattato dal [Contributor Covenant](https://contributor-covenant.org), versione 1.4, disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
+Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4,
+disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)
