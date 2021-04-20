@@ -3,14 +3,14 @@ title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: La guida descrive come contribuire alla documentazione tecnica di [!UICONTROL Adobe Experience Cloud].
+exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '836'
 ht-degree: 100%
 
 ---
-
 
 # Panoramica della guida per i collaboratori per la documentazione di Adobe
 
