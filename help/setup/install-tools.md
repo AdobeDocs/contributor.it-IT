@@ -1,14 +1,14 @@
 ---
 title: Installare gli strumenti di creazione
 description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica di file Markdown.
+exl-id: 930185cf-fff5-485a-9824-70c32c55800d
 translation-type: ht
-source-git-commit: df6c4152df0c1ee87c9fc4ca22e36a3f13cb620b
+source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
 workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
 
 ---
-
 
 # Installare gli strumenti di creazione
 
@@ -29,8 +29,8 @@ Se preferisci un’interfaccia a riga di comando (CLI) rispetto a un’interfacc
 Le risorse di apprendimento per Git sono disponibili qui:
 
 * [Nozioni di base su Git](https://git-scm.com/book/it/v2/Getting-Started-Git-Basics)
-* [Apprendimento di Git e GitHub](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
-* [Terminologia Git](https://help.github.com/articles/github-glossary)
+* [Apprendimento di Git e GitHub](https://docs.github.com/it/github/getting-started-with-github/git-and-github-learning-resources)
+* [Terminologia Git](https://docs.github.com/it/github/getting-started-with-github/github-glossary)
 
 ## Comprendere gli editor per Markdown
 
