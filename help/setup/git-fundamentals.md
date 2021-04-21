@@ -2,9 +2,9 @@
 title: Nozioni di base sulla documentazione Git e GitHub
 description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub, il modo in cui il contenuto viene organizzato e le convenzioni di denominazione che vengono utilizzate per la documentazione di Adobe.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 1b1678b33059f4bc8f7aff4690f1d775e6aee2d6
+workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 100%
 
@@ -52,7 +52,8 @@ Nella radice di tale directory, puoi trovare articoli generali che si riferiscon
 
 Le directory della guida utente contengono sottodirectory `/assets` per i file immagine a cui si fa riferimento all’interno di una directory.
 
-<!---
+<!--
+
 ### Markdown file template
 
 For convenience, the root directory of each repository typically contains a Markdown template file named `template.md`. You can use this template file as a "starter file" if you need to create a new article for submission to the repository. The file contains:
@@ -62,6 +63,7 @@ For convenience, the root directory of each repository typically contains a Mark
 - General **instructions on the use of Markdown extensions**, which you can use for various types of alerts.
 - Examples of **embedding video** by using an iframe.
 - General **instructions on the use of docs.adobe.com extensions**, which you can use for special controls such as buttons and selectors.
+
 -->
 
 ## Richieste di pull
