@@ -1,12 +1,12 @@
 ---
 title: Come contribuire
-description: Segui questa serie di linee guida per contribuire a questo progetto.
+description: Per contribuire a questo progetto, segui questa serie di linee guida.
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
