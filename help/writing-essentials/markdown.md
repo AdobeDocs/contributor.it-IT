@@ -2,11 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '1491'
-ht-degree: 100%
+source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
+workflow-type: tm+mt
+source-wordcount: '1504'
+ht-degree: 96%
 
 ---
 
@@ -182,7 +181,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza gli apici retroversi ( \` ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (\`\`\`) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: \`\`\`javascript
+Usa zecche posteriori ( &amp;grave; ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre contrassegni posteriori (&amp;grave;&amp;grave;&amp;grave;) prima e dopo il blocco di codice (denominato &quot;blocco di codice delimitato&quot; in Markdown e solo un componente &quot;blocco di codice&quot; in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: &amp;tomba;&amp;tomba;&amp;tomba;javascript
 
 Esempi:
 
@@ -195,15 +194,6 @@ Visualizzato:
 This is `inline code` within a paragraph of text.
 
 Questo è un blocco di codice delimitato:
-
-```markdown
-\```javascript
-function test() {
- console.log("notice the blank line before this function?");
-\```
-```
-
-Visualizzato:
 
 ```javascript
 function test() {
@@ -354,7 +344,7 @@ Se copi del testo in un editor di Markdown, il testo potrebbe contenere apostrof
 
 Queste sono le codifiche per le versioni “intelligenti” di tali segni di punteggiatura:
 
-* Virgolette (aperte) a sinistra: `&#8220;`
+* Virgolette (aperte) a sinistra:  `&#8220;`
 * Virgolette (chiuse) a destra: `&#8221;`
 * Virgoletta singola (chiusa) a destra o apostrofo: `&#8217;`
 * Virgoletta singola (aperta) a sinistra (usata raramente): `&#8216;`
@@ -363,7 +353,7 @@ Queste sono le codifiche per le versioni “intelligenti” di tali segni di pun
 
 Se utilizzi delle parentesi acute nel testo (non nel codice) del file (ad esempio, per indicare un segnaposto) devi codificare manualmente le parentesi acute. In caso contrario, verranno interpretate da Markdown come un tag HTML.
 
-Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
+Ad esempio, codificare `<script name>` come  `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
