@@ -3,9 +3,9 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1504'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -139,7 +139,7 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
-* Da GitHub, [Organizing information with tables](https://docs.github.com/it/github/writing-on-github/organizing-information-with-tables)
+* Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
 * La web app [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -181,7 +181,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Usa zecche posteriori ( &amp;grave; ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre contrassegni posteriori (&amp;grave;&amp;grave;&amp;grave;) prima e dopo il blocco di codice (denominato &quot;blocco di codice delimitato&quot; in Markdown e solo un componente &quot;blocco di codice&quot; in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: &amp;tomba;&amp;tomba;&amp;tomba;javascript
+Utilizza il carattere apice inverso ( &amp;grave; ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici inversi (&amp;grave;&amp;grave;&amp;grave;) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: &amp;grave;&amp;grave;&amp;grave;javascript
 
 Esempi:
 
@@ -344,7 +344,7 @@ Se copi del testo in un editor di Markdown, il testo potrebbe contenere apostrof
 
 Queste sono le codifiche per le versioni “intelligenti” di tali segni di punteggiatura:
 
-* Virgolette (aperte) a sinistra:  `&#8220;`
+* Virgolette (aperte) a sinistra: `&#8220;`
 * Virgolette (chiuse) a destra: `&#8221;`
 * Virgoletta singola (chiusa) a destra o apostrofo: `&#8217;`
 * Virgoletta singola (aperta) a sinistra (usata raramente): `&#8216;`
@@ -353,7 +353,7 @@ Queste sono le codifiche per le versioni “intelligenti” di tali segni di pun
 
 Se utilizzi delle parentesi acute nel testo (non nel codice) del file (ad esempio, per indicare un segnaposto) devi codificare manualmente le parentesi acute. In caso contrario, verranno interpretate da Markdown come un tag HTML.
 
-Ad esempio, codificare `<script name>` come  `&lt;script name&gt;`
+Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
@@ -364,4 +364,4 @@ Le e commerciali (&amp;) non sono consentite nei titoli. Utilizza invece “e”
 ### Risorse su Markdown
 
 * [Introduzione a Markdown](https://daringfireball.net/projects/markdown/syntax)
-* [Nozioni di base su Markdown di GitHub](https://docs.github.com/it/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+* [Nozioni di base su Markdown di GitHub](https://help.github.com/articles/markdown-basics/)
