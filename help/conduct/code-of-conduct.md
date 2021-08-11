@@ -1,10 +1,11 @@
 ---
+title: Codice di condotta di Adobe
+description: Codice di condotta di Adobe per segnalare i problemi e inviare le modifiche
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '431'
-ht-degree: 100%
+source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
+workflow-type: tm+mt
+source-wordcount: '446'
+ht-degree: 98%
 
 ---
 
@@ -50,7 +51,7 @@ Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblica
 
 I responsabili del progetto che non seguono o non applicano il Codice di condotta in buona fede possono far fronte a conseguenze temporanee o permanenti in base a quanto determinato da altri membri della direzione del progetto.
 
-## Attribuzione
+## Attribution
 
 Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4,
-disponibile all’indirizzo [https://contributor-covenant.org/version/1/4](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)
+disponibile all’indirizzo [https://www.contributor-covenant.org/it/version/1/4/code-of-conduct](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)
