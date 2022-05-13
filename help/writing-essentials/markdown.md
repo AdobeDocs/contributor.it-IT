@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Il presente articolo fornisce nozioni di base e informazioni di riferimento per il linguaggio Markdown utilizzato per scrivere gli articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 4104aa1481263dabe20f2e3a117944f55a6fd800
-workflow-type: ht
-source-wordcount: '1504'
-ht-degree: 100%
+source-git-commit: 9e70d10dc1ba27b593de7febf32a3ba3910bfe21
+workflow-type: tm+mt
+source-wordcount: '1489'
+ht-degree: 97%
 
 ---
 
@@ -181,7 +181,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza il carattere apice inverso ( &amp;grave; ) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici inversi (&amp;grave;&amp;grave;&amp;grave;) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: &amp;grave;&amp;grave;&amp;grave;javascript
+Usa contrassegni posteriori (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ``` `) prima e dopo il blocco di codice (denominato &quot;blocco di codice delimitato&quot; in Markdown e semplicemente un componente &quot;blocco di codice&quot; in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo insieme di apici retroversi in modo tale che la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` ```javascript`
 
 Esempi:
 
