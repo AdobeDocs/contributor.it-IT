@@ -1,17 +1,16 @@
 ---
-git-repo: https://git.corp.adobe.com/AdobeDocs/contributor.it-IT
+git-repo: https://github.com/AdobeDocs/contributor.it-IT
 cloud: Adobe
 index: true
-translation-type: ht
 source-git-commit: 1acc8373c778c65b378a7e74d5c41418ce069ffe
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
 ---
 
 
-# Guida per i collaboratori per la documentazione di Adobe {#contributor-guide}
+# Guida collaboratore per la documentazione di Adobe{#contributor-guide}
 
 + [Introduzione](introduction.md)
 + Configurazione con GitHub {#setup}
@@ -20,7 +19,7 @@ ht-degree: 100%
    + [Configurare un archivio Git locale](setup/local-repo.md)
    + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
    + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
-+ Nozioni di base sulla scrittura {#writing-essentials}
++ Nozioni di base di scrittura {#writing-essentials}
    + [Utilizzo di Markdown](writing-essentials/markdown.md)
    + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
    + [Collegamento](writing-essentials/linking.md)
