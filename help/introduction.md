@@ -1,32 +1,33 @@
 ---
 title: Guida per i collaboratori per la documentazione di Adobe
-seo-title: Panoramica della guida per i collaboratori per la documentazione tecnica di Adobe Experience Cloud
+seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
-seo-description: La guida descrive come contribuire alla documentazione tecnica di [!UICONTROL Adobe Experience Cloud].
+seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '836'
-ht-degree: 100%
+source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+workflow-type: tm+mt
+source-wordcount: '819'
+ht-degree: 87%
 
 ---
 
-# Panoramica della guida per i collaboratori per la documentazione di Adobe
+# Guida per i collaboratori per la documentazione di Adobe
 
-## Cos’è la documentazione di collaborazione
+Questa guida descrive come contribuire, ad Experience League, all’Aiuto aziendale di Adobe.
 
-La documentazione tecnica e i contenuti di formazione per Adobe Experience Cloud e altri prodotti Adobe Enterprise sono stati trasferiti su una nuova piattaforma. Questa nuova piattaforma è basata su principi open source che utilizzano soluzioni Github, Markdown e Adobe Experience Cloud.
+## Cos’è la documentazione collaborativa?
 
-Questo modello open source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
+La documentazione tecnica e i contenuti di abilitazione per Adobe Experience Cloud e altri prodotti Adobe Enterprise si basano sui principi open source che utilizzano soluzioni GitHub, Markdown e Adobe Experience Cloud.
+
+Questo modello open-source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
 
 ## Utilizzo della documentazione collaborativa
 
 Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o anche un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi:
 
-* valutare l’utilità della pagina
-* segnalare un problema per a una pagina specifica
-* perfino inoltrare una modifica rapida oppure creare interi articoli, completi di risorse ed esempi di codice
+* Valuta l’utilità della pagina
+* Segnala un problema relativo a una pagina specifica
+* Invio di modifiche rapide per la creazione di interi articoli, completi di risorse ed esempi di codice
 
 Questa guida delinea tutti gli elementi necessari per interagire con e contribuire a questo materiale.
 
@@ -67,7 +68,7 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 
 Tutto qui. Grazie. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull.
 
-## Segnalare un problema
+## Segnala un problema
 
 Un altro semplice modo per riportare un problema con dei contenuti è “Segnalare un problema”.
 
