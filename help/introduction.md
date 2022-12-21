@@ -4,14 +4,14 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 5a9bbe0663a1efa8a683e892a42faed18f072e8a
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 87%
+source-wordcount: '800'
+ht-degree: 67%
 
 ---
 
-# Guida per i collaboratori per la documentazione di Adobe
+# Guida collaboratore per la documentazione di Adobe
 
 Questa guida descrive come contribuire, ad Experience League, all’Aiuto aziendale di Adobe.
 
@@ -45,7 +45,7 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
-1. Fai clic sull’icona **`Edit this page`** nella colonna di destra per passare al file Markdown di origine su GitHub.
+1. Fai clic su **[!UICONTROL Edit this page]** nella colonna di destra per passare al file Markdown di origine su GitHub.
 
    ![Icona Modifica questa pagina](/help/assets/git_edit.png)
 
@@ -57,42 +57,48 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 
    ![Posizione dell’icona della matita](assets/edit-icon.png)
 
-1. Apporta le modifiche nell’editor Web. Puoi fare clic sulla scheda **Preview changes** per controllare la formattazione delle modifiche.
-1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina. Immetti un titolo e una descrizione per la PR e fai clic su **Propose file change** come mostrato nella figura seguente:
+1. Apporta le modifiche nell’editor Web.
+
+   Puoi fare clic sulla scheda **[!UICONTROL Preview changes]** per controllare la formattazione delle modifiche.
+1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina.
+
+   Immetti un titolo e una descrizione per la PR, quindi fai clic su **[!UICONTROL Propose file change]** come illustrato nella figura seguente:
 
    ![Proporre le tue modifiche](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **Dettagli** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
+   >Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **[!UICONTROL Details]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
 
-Tutto qui. Grazie. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull.
+Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull. Grazie. 
 
 ## Segnala un problema
 
-Un altro semplice modo per riportare un problema con dei contenuti è “Segnalare un problema”.
+Un altro modo semplice per farci sapere di un problema con un contenuto è quello di utilizzare **[!UICONTROL Log an Issue]**.
 
-1. Se noti un problema con uno dei contenuti, fai clic sull’icona **`Log an Issue`** in basso a destra di qualsiasi pagina.
+1. Se noti un problema con uno dei contenuti, fai clic sull’icona **[!UICONTROL Log an Issue]** in basso a destra di qualsiasi pagina.
 
    ![](assets/git_log_issue.png)
 
    >[!NOTE]
    >
-   >Per segnalare un problema dovrai accedere al tuo account GitHub o creare un nuovo account.
+   >Per segnalare un problema, devi accedere al tuo account GitHub o creare un account.
 
-   Facendo clic su questo collegamento, potrai registrare una segnalazione rapida utilizzando l’interfaccia GitHub Issue.
+   Facendo clic su questo collegamento puoi registrare un ticket rapido con un Experience League, utilizzando l’interfaccia GitHub Issue.
 
-1. L’URL della pagina che contiene il problema viene automaticamente popolato nel campo di descrizione. Inserisci il titolo, scrivi una breve descrizione del problema, quindi fai clic su *Submit new issue*.
+   L’URL della pagina con il problema viene compilato automaticamente nel campo di descrizione.
+
+1. Inserisci il titolo, scrivi una breve descrizione del problema, quindi fai clic su *Submit new issue*.
 
    ![](assets/git_issue_example.png)
 
-Quando invii una segnalazione di un problema, il team dei contenuti della pagina in questione viene automaticamente notificato e potrà quindi intervenire. Una volta aggiornato il contenuto, verrai informato nell’interfaccia GitHub Issues e riceverai una notifica tramite e-mail dopo l’aggiornamento o la chiusura.
+L’invio di un problema invia una notifica al team dei contenuti per questa pagina, che può risolvere il problema. Una volta aggiornato il contenuto, verrai informato nell’interfaccia GitHub Issues e riceverai una notifica tramite e-mail dopo l’aggiornamento o la chiusura.
 
 ## Comprendere le autorizzazioni GitHub
 
 L’interfaccia utente di modifica di GitHub si adatta alle autorizzazioni dell’archivio. Le immagini precedenti sono rese in modo accurato per i collaboratori che non dispongono delle autorizzazioni di scrittura per l’archivio di destinazione. GitHub crea automaticamente un fork dell’archivio di destinazione nell’account. Se disponi di accesso in scrittura per l’archivio di destinazione, GitHub crea un nuovo ramo nell’archivio di destinazione.
 
-Adobe utilizza le richieste di pull per tutte le modifiche, anche per i collaboratori con accesso in scrittura. La maggior parte degli archivi presenta il ramo `master` protetto, perciò gli aggiornamenti devono essere inviati come richieste di pull.
+Adobe utilizza le richieste di pull per tutte le modifiche, anche per i collaboratori con accesso in scrittura. La maggior parte degli archivi presenta il ramo `main` protetto, perciò gli aggiornamenti devono essere inviati come richieste di pull.
 
 L’esperienza di modifica nel browser è ideale per modifiche minori o non frequenti. Se apporti contributi di grandi dimensioni o utilizzi funzioni Git avanzate, ti consigliamo di [effettuare il forking dell’archivio e lavorare localmente](setup/full-workflow.md).
 
@@ -100,4 +106,4 @@ L’esperienza di modifica nel browser è ideale per modifiche minori o non freq
 
 Con un set di soluzioni quello di Adobe, la documentazione è in continua elaborazione. Se noti degli errori, segnala un problema; se hai suggerimenti sul materiale, comunicali. Indicaci quali informazioni stavi cercando. Comunicaci se non hai trovato ciò di cui avevi bisogno o se hai incontrato difficoltà a completare l’attività; informaci su come possiamo aiutarti a scoprire di più sulle soluzioni.
 
-Grazie dal team della documentazione collaborativa e da tutti gli autori e i produttori di contenuti in [!UICONTROL Adobe Experience Cloud].
+Grazie al team della documentazione collaborativa e a tutti gli autori e i produttori di contenuti in Experience League.

@@ -1,12 +1,11 @@
 ---
 title: Flusso di lavoro dei contributi GitHub per modifiche principali
-description: Il presente articolo illustra come utilizzare il flusso di lavoro “principale” per collaboratori per apportare contributi alla documentazione di Adobe.
+description: Scopri come apportare contributi alla documentazione di Adobe sull’Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
-source-wordcount: '950'
-ht-degree: 100%
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
+source-wordcount: '944'
+ht-degree: 82%
 
 ---
 
@@ -45,13 +44,13 @@ In questo flusso di lavoro, le modifiche attraversano un ciclo ripetitivo. A par
 
 ### Usare il flusso GitHub
 
-Ricorda dai [Principi di base Git e GitHub](git-fundamentals.md) che un archivio Git contiene un ramo principale, oltre a qualsiasi ramo work-in-progress aggiuntivo che non sia stato integrato in quello principale. Ogni volta che introduci un set di modifiche a livello logico, è consigliabile creare un *ramo di lavoro* per gestire le modifiche tramite il flusso di lavoro. Viene qui chiamato ramo di lavoro in quanto si tratta di un’area di lavoro per l’iterazione o la finalizzazione delle modifiche, fino a quando queste non vengono integrate nuovamente nel ramo principale.
+Ricorda da [Principi di base di Git e GitHub](git-fundamentals.md) che un archivio Git contenga un ramo principale, più eventuali rami work-in-progress aggiuntivi che non sono stati integrati nel principale. Ogni volta che introduci un set di modifiche a livello logico, è consigliabile creare un *filiale* per gestire le modifiche tramite il flusso di lavoro. In questo caso si tratta di un ramo di lavoro, in quanto si tratta di un’area di lavoro per l’iterazione o la definizione delle modifiche, fino a quando queste non possono essere integrate nuovamente nel ramo principale.
 
 L’isolamento delle modifiche correlate a un ramo specifico consente di controllare e introdurre tali modifiche in modo indipendente, indirizzandole a un determinato tempo di rilascio nel ciclo di pubblicazione. In realtà, in base al tipo di lavoro svolto, puoi facilmente ritrovarti con diversi rami di lavoro nell’archivio. Non è raro lavorare contemporaneamente su più rami, ognuno dei quali rappresenta un progetto diverso.
 
 >[!NOTE]
 >
->Apportare le modifiche nel ramo principale *non è buona prassi*. Immagina di utilizzare il ramo principale per introdurre un set di modifiche per il rilascio pianificato di una funzione. Hai terminato le modifiche e sei in attesa del rilascio. Nel frattempo ricevi una richiesta urgente per correggere qualcosa, quindi apporti la modifica a un file nel ramo principale e la pubblichi. In questo esempio, pubblichi inavvertitamente sia la correzione *sia* le modifiche che stavi tenendo per il rilascio in una data specifica.
+>Apportare le modifiche nel ramo principale *non è una buona pratica*. Immagina di utilizzare il ramo principale per introdurre un set di modifiche per un rilascio di funzioni temporizzate. Hai terminato le modifiche e sei in attesa del rilascio. Nel frattempo, hai una richiesta urgente per correggere qualcosa, quindi apporti la modifica a un file nel ramo principale e poi pubblichi la modifica. In questo esempio, pubblichi inavvertitamente sia la correzione *sia* le modifiche che stavi tenendo per il rilascio in una data specifica.
 
 La fase successiva consiste nel creare un nuovo ramo di lavoro nell’archivio locale per acquisire le modifiche proposte. Ciascun client Git è diverso, quindi consulta l’Aiuto per il tuo client preferito. Puoi vedere una panoramica del processo nella Guida GitHub sul [Flusso GitHub](https://guides.github.com/introduction/flow/).
 

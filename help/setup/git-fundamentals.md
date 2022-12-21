@@ -2,11 +2,10 @@
 title: Nozioni di base sulla documentazione Git e GitHub
 description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub, il modo in cui il contenuto viene organizzato e le convenzioni di denominazione che vengono utilizzate per la documentazione di Adobe.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
-translation-type: ht
-source-git-commit: 1b1678b33059f4bc8f7aff4690f1d775e6aee2d6
-workflow-type: ht
+source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
+workflow-type: tm+mt
 source-wordcount: '660'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -29,7 +28,7 @@ Git dispone di un flusso di lavoro e di una terminologia univoci per supportare 
 Git utilizza inoltre una struttura a livelli per archiviare e gestire il contenuto per un progetto:
 
 - *Archivio*: anche noto come *repo* o repository, è l’unità di archiviazione di livello più alto. Un archivio contiene uno o più rami.
-- *Ramo*: tutti gli archivi contengono un ramo predefinito (in genere denominato “principale”) e uno o più rami destinati a essere uniti nuovamente al ramo principale. Il ramo principale rappresenta la versione corrente e la fonte dalla quale il contenuto viene pubblicato. È l’elemento superiore da cui vengono creati tutti gli altri rami nell’archivio.
+- *Filiale*: Tutti gli archivi contengono un ramo predefinito (in genere denominato &quot;principale&quot;) e uno o più rami destinati a essere uniti nuovamente al ramo principale. Il ramo principale funge da versione corrente e sorgente da cui viene pubblicato il contenuto. È l’elemento superiore da cui vengono creati tutti gli altri rami nell’archivio.
 
 I collaboratori interagiscono con Git per aggiornare e manipolare archivi a livello locale e di GitHub:
 
@@ -42,7 +41,7 @@ Tutti i flussi di lavoro iniziano e terminano a livello di GitHub, dove viene co
 
 ### Organizzazione della directory
 
-Il ramo predefinito/principale di un progetto rappresenta la versione corrente del contenuto per il progetto. Il contenuto del ramo principale (e dei rami creati da esso) è allineato all’organizzazione degli argomenti dell’articolo. Le sottodirectory vengono utilizzate per organizzare il contenuto e le risorse immagine.
+Il ramo principale/predefinito di un progetto funge da versione corrente del contenuto del progetto. Il contenuto del ramo principale, e i rami creati da esso, è in linea con l’organizzazione degli argomenti dell’articolo. Le sottodirectory vengono utilizzate per organizzare il contenuto e le risorse immagine.
 
 Di solito è possibile trovare una directory `help` principale dalla radice dell’archivio. La directory degli articoli contiene un set di sottodirectory. Gli articoli nelle sottodirectory vengono formattati come file Markdown che utilizzano un’estensione *.md*.
 
