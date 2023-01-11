@@ -1,11 +1,11 @@
 ---
 title: Come utilizzare Markdown per la scrittura della documentazione
-description: Scopri le nozioni di base sull’authoring di Markdown. Trova informazioni di riferimento per la lingua Markdown utilizzata per la scrittura di articoli.
+description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1500'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
