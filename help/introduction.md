@@ -1,33 +1,33 @@
 ---
 title: Guida per i collaboratori per la documentazione di Adobe
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
-description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
+description: Questa guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '800'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
-# Guida collaboratore per la documentazione di Adobe
+# Guida per i collaboratori per la documentazione di Adobe
 
-Questa guida descrive come contribuire, ad Experience League, all’Aiuto aziendale di Adobe.
+Questa guida descrive come contribuire alla documentazione Adobe Enterprise su Experience League.
 
 ## Cos’è la documentazione collaborativa?
 
-La documentazione tecnica e i contenuti di abilitazione per Adobe Experience Cloud e altri prodotti Adobe Enterprise si basano sui principi open source che utilizzano soluzioni GitHub, Markdown e Adobe Experience Cloud.
+La documentazione tecnica e i contenuti di abilitazione per Adobe Experience Cloud e altri prodotti Adobe Enterprise si basano sui principi open source e utilizzano GitHub, Markdown e le soluzioni Adobe Experience Cloud.
 
-Questo modello open-source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
+Questo modello open source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
 
 ## Utilizzo della documentazione collaborativa
 
 Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o anche un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi:
 
-* Valuta l’utilità della pagina
-* Segnala un problema relativo a una pagina specifica
-* Invio di modifiche rapide per la creazione di interi articoli, completi di risorse ed esempi di codice
+* Valutare l’utilità della pagina
+* Segnalare un problema relativo a una pagina specifica
+* Inoltrare una modifica rapida oppure creare interi articoli, completi di risorse ed esempi di codice
 
 Questa guida delinea tutti gli elementi necessari per interagire con e contribuire a questo materiale.
 
@@ -45,7 +45,7 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
-1. Fai clic su **[!UICONTROL Edit this page]** nella colonna di destra per passare al file Markdown di origine su GitHub.
+1. Fai clic su **[!UICONTROL Edit this page]** nella colonna di destra per passare al file Markdown di origine su GitHub.
 
    ![Icona Modifica questa pagina](/help/assets/git_edit.png)
 
@@ -62,21 +62,21 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
    Puoi fare clic sulla scheda **[!UICONTROL Preview changes]** per controllare la formattazione delle modifiche.
 1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina.
 
-   Immetti un titolo e una descrizione per la PR, quindi fai clic su **[!UICONTROL Propose file change]** come illustrato nella figura seguente:
+   Immetti un titolo e una descrizione per la tua richiesta pull, quindi fai clic su **[!UICONTROL Propose file change]** come mostrato nella figura seguente:
 
-   ![Proporre le tue modifiche](assets/submit-pull-request.png)
+   ![Proporre una modifica](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **[!UICONTROL Details]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
+   >Se ricevi un messaggio di errore di convalida relativo alla firma di un contratto CLA (Contributor License Agreement), fai clic su **[!UICONTROL Details]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
 
-Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta di pull. Grazie. 
+Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie. 
 
-## Segnala un problema
+## Segnalare un problema
 
-Un altro modo semplice per farci sapere di un problema con un contenuto è quello di utilizzare **[!UICONTROL Log an Issue]**.
+Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Log an Issue]**.
 
-1. Se noti un problema con uno dei contenuti, fai clic sull’icona **[!UICONTROL Log an Issue]** in basso a destra di qualsiasi pagina.
+1. Se noti un problema nei contenuti, fai clic sull’icona **[!UICONTROL Log an Issue]** nella colonna a destra.
 
    ![](assets/git_log_issue.png)
 
@@ -84,15 +84,15 @@ Un altro modo semplice per farci sapere di un problema con un contenuto è quell
    >
    >Per segnalare un problema, devi accedere al tuo account GitHub o creare un account.
 
-   Facendo clic su questo collegamento puoi registrare un ticket rapido con un Experience League, utilizzando l’interfaccia GitHub Issue.
+   Facendo clic su questo collegamento puoi registrare rapidamente una segnalazione per Experience League, mediante l’interfaccia GitHub Issue.
 
-   L’URL della pagina con il problema viene compilato automaticamente nel campo di descrizione.
+   L’URL della pagina che contiene il problema viene compilato automaticamente nel campo di descrizione.
 
-1. Inserisci il titolo, scrivi una breve descrizione del problema, quindi fai clic su *Submit new issue*.
+1. Inserisci il titolo, scrivi una breve descrizione del problema, quindi fai clic su *Submit new issue* (Invia nuovo problema).
 
    ![](assets/git_issue_example.png)
 
-L’invio di un problema invia una notifica al team dei contenuti per questa pagina, che può risolvere il problema. Una volta aggiornato il contenuto, verrai informato nell’interfaccia GitHub Issues e riceverai una notifica tramite e-mail dopo l’aggiornamento o la chiusura.
+Quando viene inviato un problema, il team responsabile dei contenuti della pagina in questione riceve una notifica e può quindi intervenire per risolverlo. Una volta aggiornato il contenuto, verrai informato nell’interfaccia GitHub Issues e riceverai una notifica tramite e-mail dopo l’aggiornamento o la chiusura.
 
 ## Comprendere le autorizzazioni GitHub
 
@@ -106,4 +106,4 @@ L’esperienza di modifica nel browser è ideale per modifiche minori o non freq
 
 Con un set di soluzioni quello di Adobe, la documentazione è in continua elaborazione. Se noti degli errori, segnala un problema; se hai suggerimenti sul materiale, comunicali. Indicaci quali informazioni stavi cercando. Comunicaci se non hai trovato ciò di cui avevi bisogno o se hai incontrato difficoltà a completare l’attività; informaci su come possiamo aiutarti a scoprire di più sulle soluzioni.
 
-Grazie al team della documentazione collaborativa e a tutti gli autori e i produttori di contenuti in Experience League.
+Grazie da parte del team della documentazione collaborativa e di tutti gli autori e i produttori di contenuti di Experience League.
