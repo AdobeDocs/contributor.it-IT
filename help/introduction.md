@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: Questa guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 8e7d5fb9dc5686df32f7d917ebfb290547d299be
-workflow-type: ht
-source-wordcount: '800'
-ht-degree: 100%
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 69%
 
 ---
 
@@ -23,11 +23,15 @@ Questo modello open source migliora la qualità dei contenuti e la comunicazione
 
 ## Utilizzo della documentazione collaborativa
 
-Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o anche un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi:
+Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o anche un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi.
 
-* Valutare l’utilità della pagina
-* Segnalare un problema relativo a una pagina specifica
-* Inoltrare una modifica rapida oppure creare interi articoli, completi di risorse ed esempi di codice
+* Valuta l’utilità della ❶ della pagina e scrivi un ❷ di commenti opzionale
+* Segnala un problema relativo a una pagina specifica (richiede l’accesso Git) ❸
+* Invia una modifica rapida tramite per creare interi articoli, completi di risorse ed esempi di codice (è necessario l’accesso Git) ❹
+
+![Feedback](assets/feedback-options.png)
+
+Queste opzioni vengono visualizzate nella parte inferiore della pagina pochi secondi dopo l’apertura. Se salti l’area di feedback, puoi ricaricare la pagina per riportarla indietro.
 
 Questa guida delinea tutti gli elementi necessari per interagire con e contribuire a questo materiale.
 
@@ -38,16 +42,23 @@ Questa guida delinea tutti gli elementi necessari per interagire con e contribui
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
+## Valuta l’utilità della pagina e scrivi un commento
+
+Alcuni secondi dopo l’apertura di una pagina, nella parte inferiore della pagina viene visualizzata un’area di feedback. Fai clic su in alto o in basso per indicare se la pagina è stata utile.
+
+Puoi lasciare un commento per fornire un feedback aggiuntivo.
+
 ## Apportare modifiche rapide ai documenti esistenti
 
-Apportare delle modifiche rapide è un modo utile per correggere piccoli errori e omissioni nei documenti. Se un articolo visualizza un pulsante di modifica come mostrato di seguito, puoi apportare autonomamente una correzione rapida. Quando modifichi il documento, invii una richiesta di pull (PR) per inviare la correzione o il suggerimento e quest’ultimo può essere esaminato, approvato e pubblicato.
+Per fornire un feedback più dettagliato, è consigliabile apportare modifiche rapide per correggere piccoli errori e omissioni nei documenti. Quando suggerisci una modifica, invii una richiesta di pull (PR) per inviare la correzione o il suggerimento a noi, e possiamo vagliare, approvare e pubblicare il suggerimento.
 
 1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
-1. Fai clic su **[!UICONTROL Edit this page]** nella colonna di destra per passare al file Markdown di origine su GitHub.
 
-   ![Icona Modifica questa pagina](/help/assets/git_edit.png)
+1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]** e quindi fare clic su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
+
+   ![Icona Modifica questa pagina](/help/assets/feedback-suggest-edit.png)
 
 1. Fai clic sull’icona della matita per modificare l’articolo.
 
@@ -55,11 +66,12 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
    >
    >Se l’icona della matita è disattivata, devi accedere all’account GitHub oppure creare un nuovo account.
 
-   ![Posizione dell’icona della matita](assets/edit-icon.png)
+   ![Posizione dell’icona della matita](assets/git_edit.png)
 
 1. Apporta le modifiche nell’editor Web.
 
    Puoi fare clic sulla scheda **[!UICONTROL Preview changes]** per controllare la formattazione delle modifiche.
+
 1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina.
 
    Immetti un titolo e una descrizione per la tua richiesta pull, quindi fai clic su **[!UICONTROL Propose file change]** come mostrato nella figura seguente:
@@ -72,13 +84,13 @@ Apportare delle modifiche rapide è un modo utile per correggere piccoli errori 
 
 Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie. 
 
-## Segnalare un problema
+## Segnala un problema
 
-Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Log an Issue]**.
+Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Report an issue]**.
 
-1. Se noti un problema nei contenuti, fai clic sull’icona **[!UICONTROL Log an Issue]** nella colonna a destra.
+1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]** e quindi fare clic su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
 
-   ![](assets/git_log_issue.png)
+   ![Segnala problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >

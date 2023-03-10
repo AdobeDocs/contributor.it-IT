@@ -2,11 +2,10 @@
 title: Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 exl-id: 6ba93c9f-15c3-47ba-aa41-d226f5d4e435
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -36,7 +35,7 @@ Puoi visualizzare la documentazione di prodotto di Adobe Experience Cloud in mol
 
    Il contenuto può essere reso automaticamente nella tua lingua, oppure puoi cliccare su un link per attivare la traduzione. (Questo può verificarsi quando si clicca sul collegamento ipertestuale per tornare alla pagina originale in inglese dalla pagina tradotta. Ti dà la possibilità di visualizzare la pagina tradotta su richiesta.) In qualsiasi momento è possibile tornare alla pagina originale in inglese.
 
-   Talvolta, il contenuto originale inglese potrebbe essere stato recentemente aggiornato e pubblicato prima che le traduzioni fossero state completate. Facendo clic sulla lingua nel menu a discesa, verrà visualizzata una notifica, nel riquadro orizzontale azzurro nella parte superiore della pagina, che informa che la pagina è stata tradotta automaticamente a partire dalla versione precedente, con contenuto aggiornato disponibile a breve. In tal caso, puoi scegliere se visualizzare il contenuto originale in inglese più recente in una nuova finestra del browser.
+   Talvolta, il contenuto originale inglese potrebbe essere stato recentemente aggiornato e pubblicato prima che le traduzioni fossero state completate. Facendo clic sulla lingua nel menu a discesa, verrà visualizzata una notifica, nella barra orizzontale azzurra nella parte superiore della pagina, che informa che la pagina è stata tradotta automaticamente a partire dalla versione precedente, con contenuto aggiornato disponibile a breve. In tal caso, puoi scegliere se visualizzare il contenuto originale in inglese più recente in una nuova finestra del browser.
 
 ## Perché utilizzare la traduzione automatica
 
@@ -58,8 +57,7 @@ Talvolta potrebbero verificarsi problemi con il rendimento della traduzione auto
 
 ### Feedback
 
-Quando il contenuto viene tradotto automaticamente, per impostazione predefinita o per scelta dell’utente, è possibile fornire ad Adobe un feedback sulle traduzioni. Nel
-riquadro orizzontale azzurro nella parte superiore della pagina, puoi rispondere “Sì” o “No” alla domanda: “Questa traduzione è stata utile?”. Adobe raccoglie quest’informazione
+Quando il contenuto viene tradotto automaticamente, per impostazione predefinita o per scelta dell’utente, è possibile fornire ad Adobe un feedback sulle traduzioni. Nella barra orizzontale azzurra nella parte superiore della pagina, puoi rispondere &quot;Sì&quot; o &quot;No&quot; alla domanda &quot;Questa traduzione è stata utile?&quot;. Adobe raccoglie quest’informazione
 e analizza i dati compilati per prendere decisioni sulla traduzione dei contenuti. Apprezziamo il tuo feedback e ti incoraggiamo a rispondere.
 
 ![Feedback](assets/machine-translation-feedback.png)

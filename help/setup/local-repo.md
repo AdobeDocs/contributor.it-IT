@@ -2,9 +2,8 @@
 title: Configurare localmente l’archivio Git
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
-workflow-type: ht
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 100%
 
@@ -71,7 +70,7 @@ Questi passaggi presuppongono l’utilizzo di GitHub Desktop. Se utilizzi un cli
 
 1. Fai clic su **Clone or download** e scegli **Open in Desktop** per estrarre una copia dell’archivio (il fork) sul computer nella directory corrente.
 
-  ![Clone repo](assets/clone-pulldown.png)
+   ![Clone repo](assets/clone-pulldown.png)
 
 1. Utilizza GitHub Desktop per mantenere i file locali sincronizzati con il fork dell’archivio.
 
