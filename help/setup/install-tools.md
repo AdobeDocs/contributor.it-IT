@@ -2,8 +2,7 @@
 title: Installare gli strumenti di creazione
 description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica di file Markdown.
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
-translation-type: ht
-source-git-commit: dad1df81797e6078645449501ed0661cf4bcf3ce
+source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: ht
 source-wordcount: '345'
 ht-degree: 100%
@@ -18,7 +17,7 @@ ht-degree: 100%
 >
 >Se apporti solo modifiche minori a un articolo, *non* devi completare i passaggi descritti nel presente articolo. È sufficiente apportare le modifiche nel browser Web.
 >
-> Invitiamo i collaboratori principali a completare questi passaggi, che consentono di utilizzare i [flussi di lavoro per la modifiche principali](local-repo.md). Anche se si dispone delle autorizzazioni di scrittura nell’archivio principale, si consiglia vivamente (e questa guida presuppone che venga fatto) di eseguire il forking e clonare l’archivio, in modo tale da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte nel proprio fork.
+>Invitiamo i collaboratori principali a completare questi passaggi, che consentono di utilizzare i [flussi di lavoro per la modifiche principali](local-repo.md). Anche se si dispone delle autorizzazioni di scrittura nell’archivio principale, si consiglia vivamente (e questa guida presuppone che venga fatto) di eseguire il forking e clonare l’archivio, in modo tale da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte nel proprio fork.
 
 ## Installare gli strumenti client Git
 
