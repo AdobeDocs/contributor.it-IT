@@ -3,7 +3,7 @@ title: Installare gli strumenti di creazione
 description: Questo articolo consente di scaricare e installare gli strumenti client necessari per Git/GitHub e per la modifica di file Markdown.
 exl-id: 930185cf-fff5-485a-9824-70c32c55800d
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 100%
 
