@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: e9cd46132a673d5acd1e3db2f05a9c3c8e5bc30b
-workflow-type: ht
-source-wordcount: '1500'
-ht-degree: 100%
+source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
+workflow-type: tm+mt
+source-wordcount: '1430'
+ht-degree: 97%
 
 ---
 
@@ -86,11 +86,13 @@ Visualizzato:
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this: 
 
    | Hello | World |
    |---|---|
    | How | are you? |  
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -106,11 +108,13 @@ Visualizzato:
 1. Perform this step.
 
    ![screen](assets/no-localize/adobe_standard_logo.png)
+
 1. Make sure that your table looks like this:
 
    | Hello | World |
    |---|---|
    | How | are you? |
+
 1. This is the fourth step.
 
    >[!NOTE]
@@ -175,9 +179,7 @@ Per ulteriori informazioni sui collegamenti, consulta l’articolo [Collegamenti
 
 Visualizzato:
 
-![Adobe Logo ](assets/no-localize/adobe_standard_logo.png " Hover text ")
-
-**NOTA:** per le immagini che non devono essere localizzate, crea una cartella `do-not-localize` separata nella cartella delle risorse. In genere, le immagini senza testo o quelle con solo contenuto di esempio vengono collocate in tale cartella. In tal modo la cartella delle risorse resta libera da elementi superflui e riduce la quantità di domande.
+![Adobe Logo](assets/no-localize/adobe_standard_logo.png "Hover text")
 
 ### Blocchi di codice
 
@@ -208,10 +210,10 @@ Gli articoli Adobe utilizzano Markdown standard per la maggior parte della forma
 
 * Blocchi per le note
 * Video incorporati
-* Do not localize
-* Proprietà dei componenti, come ad esempio l’assegnazione di un ID intestazione diverso a un’intestazione
+* Tag di traduzione
+* Proprietà dei componenti, ad esempio l’assegnazione di un ID intestazione diverso a un’intestazione e la specifica di una dimensione immagine
 
-Utilizza il block quote di Markdown ( > ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota. Se devi utilizzare dei sottocomponenti all’interno di componenti, aggiungi un ulteriore livello di block quote (>  >) per la sezione di quel sottocomponente. Ad esempio, una NOTA all’interno di una sezione DONOTLOCALIZE deve iniziare con >    >.
+Utilizza il block quote di Markdown ( > ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota.
 
 Alcuni elementi comuni di Markdown come le intestazioni e i blocchi di codice includono proprietà estese. Se devi modificare le proprietà predefinite, aggiungi i parametri tra parentesi graffe /{ /} dopo il componente. Le proprietà estese vengono descritte nel contesto.
 
@@ -229,7 +231,6 @@ Per richiamare l’attenzione su contenuti specifici, puoi scegliere tra questi 
 * `[!PREREQUISITES]`
 
 In generale, i blocchi per le note devono essere utilizzati con cautela poiché possono risultare di disturbo. Anche se supportano a loro volta blocchi di codice, immagini, elenchi e collegamenti, prova a mantenere i blocchi per le note semplici e chiari.
-
 
 ```markdown
 >[!NOTE]
@@ -273,6 +274,7 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 
 ```markdown
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/support/audience-manager.html)
 ```
@@ -280,6 +282,7 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 Visualizzato:
 
 >[!MORELIKETHIS]
+>
 >* [Article 1](https://helpx.adobe.com/it/support/analytics.html)
 >* [Article 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
@@ -334,7 +337,7 @@ Il testo alternativo che contiene caratteri di sottolineatura non viene visualiz
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-La procedura ottimale prevede l’utilizzo dei trattini (-) invece dei caratteri di sottolineatura (_) nei nomi dei file.
+Si consiglia di utilizzare i trattini (-) invece dei caratteri di sottolineatura (_) nei nomi dei file.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
