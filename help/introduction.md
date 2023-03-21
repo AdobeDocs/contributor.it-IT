@@ -1,13 +1,13 @@
 ---
 title: Guida per chi contribuisce alla documentazione Adobe
 seo-title: Contributor guide overview for Adobe Experience Cloud technical documentation
-description: Questa guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
+description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
 source-wordcount: '904'
-ht-degree: 69%
+ht-degree: 98%
 
 ---
 
@@ -23,11 +23,11 @@ Questo modello open source migliora la qualità dei contenuti e la comunicazione
 
 ## Utilizzo della documentazione collaborativa
 
-Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o anche un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi.
+Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi.
 
-* Valuta l’utilità della ❶ della pagina e scrivi un ❷ di commenti opzionale
+* Valuta l’utilità della pagina ❶ e scrivi un commento ❷
 * Segnala un problema relativo a una pagina specifica (richiede l’accesso Git) ❸
-* Invia una modifica rapida tramite per creare interi articoli, completi di risorse ed esempi di codice (è necessario l’accesso Git) ❹
+* Inoltra una modifica rapida creando interi articoli, completi di risorse ed esempi di codice (richiede l’accesso Git) ❹
 
 ![Feedback](assets/feedback-options.png)
 
@@ -42,21 +42,21 @@ Questa guida delinea tutti gli elementi necessari per interagire con e contribui
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
 -->
 
-## Valuta l’utilità della pagina e scrivi un commento
+## Valutare l’utilità della pagina e scrivi un commento
 
-Alcuni secondi dopo l’apertura di una pagina, nella parte inferiore della pagina viene visualizzata un’area di feedback. Fai clic su in alto o in basso per indicare se la pagina è stata utile.
+Alcuni secondi dopo l’apertura di una pagina, nella parte inferiore della pagina viene visualizzata un’area di feedback. Fai clic in alto o in basso per indicare se la pagina è stata utile.
 
 Puoi lasciare un commento per fornire un feedback aggiuntivo.
 
 ## Apportare modifiche rapide ai documenti esistenti
 
-Per fornire un feedback più dettagliato, è consigliabile apportare modifiche rapide per correggere piccoli errori e omissioni nei documenti. Quando suggerisci una modifica, invii una richiesta di pull (PR) per inviare la correzione o il suggerimento a noi, e possiamo vagliare, approvare e pubblicare il suggerimento.
+Per fornire un feedback più dettagliato, apportare modifiche rapide è un buon modo per correggere piccoli errori e omissioni nei documenti. Per suggerire una modifica, invia una richiesta pull (PR) per inviare la correzione o il suggerimento, che potrà così essere esaminato, approvato e pubblicato.
 
 1. Firma il [Contratto di licenza da collaboratore (CLA)](http://opensource.adobe.com/cla.html), se accettabile.
 
    È necessario inviare un Adobe CLA una sola volta.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]** e quindi fare clic su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
+1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
 
    ![Icona Modifica questa pagina](/help/assets/feedback-suggest-edit.png)
 
@@ -84,17 +84,17 @@ Per fornire un feedback più dettagliato, è consigliabile apportare modifiche r
 
 Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie. 
 
-## Segnala un problema
+## Segnalare un problema
 
 Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Report an issue]**.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]** e quindi fare clic su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
+1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
 
-   ![Segnala problema](assets/feedback-report-issue.png)
+   ![Segnalare un problema](assets/feedback-report-issue.png)
 
    >[!NOTE]
    >
-   >Per segnalare un problema, devi accedere al tuo account GitHub o creare un account.
+   >Per segnalare un problema, è necessario accedere al tuo account GitHub o creare un account.
 
    Facendo clic su questo collegamento puoi registrare rapidamente una segnalazione per Experience League, mediante l’interfaccia GitHub Issue.
 
