@@ -3,9 +3,9 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -211,9 +211,9 @@ Gli articoli Adobe utilizzano Markdown standard per la maggior parte della forma
 * Blocchi per le note
 * Video incorporati
 * Tag di traduzione
-* Proprietà dei componenti, ad esempio l’assegnazione di un ID intestazione diverso a un’intestazione e la specifica di una dimensione immagine
+* Proprietà dei componenti, ad esempio l’assegnazione di un ID intestazione diverso a un’intestazione e la specifica delle dimensioni immagine
 
-Utilizza il block quote di Markdown ( > ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota.
+Utilizza il blockquote di Markdown ( > ) all’inizio di ogni riga per collegare un componente esteso, come ad esempio una nota.
 
 Alcuni elementi comuni di Markdown come le intestazioni e i blocchi di codice includono proprietà estese. Se devi modificare le proprietà predefinite, aggiungi i parametri tra parentesi graffe /{ /} dopo il componente. Le proprietà estese vengono descritte nel contesto.
 
@@ -337,7 +337,7 @@ Il testo alternativo che contiene caratteri di sottolineatura non viene visualiz
 ![Settings_Step_2](/assets/settings_step_2.png)
 ```
 
-Si consiglia di utilizzare i trattini (-) invece dei caratteri di sottolineatura (_) nei nomi dei file.
+La best practice prevede l’utilizzo dei trattini (-) anziché dei caratteri di sottolineatura (_) nei nomi dei file.
 
 ```markdown
 ![Settings-Step-2](/assets/settings-step-2.png)
