@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 065e43d5251f80050deef02e9c18b3fb4e9c1204
-workflow-type: ht
-source-wordcount: '1430'
-ht-degree: 100%
+source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+workflow-type: tm+mt
+source-wordcount: '1420'
+ht-degree: 99%
 
 ---
 
@@ -229,32 +229,35 @@ Per richiamare l’attenzione su contenuti specifici, puoi scegliere tra questi 
 * `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
+* `[!ERROR]`
+* `[!ADMINISTRATION]`
+* `[!INFO]`
+* `[!SUCCESS]`
 
 In generale, i blocchi per le note devono essere utilizzati con cautela poiché possono risultare di disturbo. Anche se supportano a loro volta blocchi di codice, immagini, elenchi e collegamenti, prova a mantenere i blocchi per le note semplici e chiari.
 
+
 ```markdown
 >[!NOTE]
 >
 >This is a standard NOTE block.
 ```
 
-Visualizzato:
-
->[!NOTE]
->
->This is a standard NOTE block.
-
 ```markdown
 >[!TIP]
 >
->This is a standard tip.
+>This is a standard TIP.
+```
+
+```markdown
+>[!IMPORTANT]
+>
+>This is an IMPORTANT note.
 ```
 
 Visualizzato:
 
->[!TIP]
->
->This is a standard tip.
+![Note sottoposte a rendering](assets/notes-rendered.png)
 
 ### Video
 
