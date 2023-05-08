@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 19ea281ffce60c91edd0a47449152fc1138031c5
+source-git-commit: aec38dde9195855f96e7469c91c28d50ad516ae6
 workflow-type: tm+mt
-source-wordcount: '1420'
-ht-degree: 99%
+source-wordcount: '1419'
+ht-degree: 97%
 
 ---
 
@@ -77,7 +77,7 @@ Visualizzato:
 
 * First item in an unordered list.
 * Another item.
-* Here we go again.
+* Eccoci di nuovo.
 
 È inoltre possibile incorporare elenchi all’interno di elenchi e aggiungere contenuto tra gli elementi di un elenco.
 
@@ -119,7 +119,7 @@ Visualizzato:
 
    >[!NOTE]
    >
-   >This is note text.
+   >Questo è il testo della nota.
 
 1. Do another step.
 
@@ -285,9 +285,8 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 Visualizzato:
 
 >[!MORELIKETHIS]
->
->* [Article 1](https://helpx.adobe.com/it/support/analytics.html)
->* [Article 2](https://helpx.adobe.com/it/support/audience-manager.html)
+* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
+* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
 
 ### UICONTROL e DNL
@@ -312,7 +311,8 @@ Durante la traduzione automatica, gli elementi con i tag `` vengono verificati
 1. The [!UICONTROL Processing Rules] dialog box appears.
 ```
 
-**NOTA:** tra le tre opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
+>[!NOTE]
+Tra le tre opzioni di assegnazione tag, questa è la più importante per offrire un&#39;elevata qualità ed è obbligatoria.
 
 **`[!DNL]`**
 
