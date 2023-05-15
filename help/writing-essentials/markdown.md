@@ -4,8 +4,8 @@ description: Scopri le nozioni di base sull’authoring Markdown. Trova informaz
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1421'
+ht-degree: 97%
 
 ---
 
@@ -257,7 +257,7 @@ In generale, i blocchi per le note devono essere utilizzati con cautela poiché 
 
 Visualizzato:
 
-![Note sottoposte a rendering](assets/notes-rendered.png)
+![Note renderizzate](assets/notes-rendered.png)
 
 ### Video
 
