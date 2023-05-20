@@ -2,9 +2,8 @@
 title: Come contribuire
 description: Per contribuire a questo progetto, segui questa serie di linee guida.
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
-translation-type: ht
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 100%
 
@@ -37,7 +36,7 @@ come parte del progetto. [Firma il Contratto di licenza da collaboratore](http:/
 
 Tutti gli invii devono pervenire sotto forma di richieste di pull e devono essere revisionati
 dai committenti del progetto. Per ulteriori informazioni sull’invio di richieste di pull,
-consulta la [Documentazione sulle richieste di pull di GitHub](https://help.github.com/it/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
+consulta la [Documentazione sulle richieste di pull di GitHub](https://help.github.com/it/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when

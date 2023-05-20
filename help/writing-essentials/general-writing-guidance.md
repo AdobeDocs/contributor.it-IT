@@ -4,8 +4,8 @@ title: Linee guida sullo stile di authoring per i collaboratori esterni
 description: Scopri le linee guida per l’authoring ed editoriali per i collaboratori esterni di Experience League.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
-workflow-type: ht
-source-wordcount: '2227'
+workflow-type: tm+mt
+source-wordcount: '2224'
 ht-degree: 100%
 
 ---
@@ -162,7 +162,7 @@ Di seguito sono riportati metodi semplici per migliorare la progettazione, la ch
 | Cambia _fai clic su_ in _vai a_ o _seleziona_. | Il termine _clic_ fa riferimento a uno specifico dispositivo (che presenta problemi di accessibilità) e ora si tende a non utilizzarlo più. Di seguito sono riportati alcuni suggerimenti per formule alternative:<ul><li>Navigazione: _Vai a File > Stampa_.</li><li>Fare clic: _Seleziona File > Stampa_ o _Seleziona OK_. </li></ul>Per ulteriori idee sulla scelta migliore dei termini in varie situazioni, vedi [Descrizione delle interazioni con l’interfaccia utente](https://docs.microsoft.com/it-it/style-guide/procedures-instructions/describing-interactions-with-ui). |
 | Esegui Acrolinx in VSC | Acrolinx verifica la presenza di problemi di stile e grammatica. Controlla gli URL, la terminologia, l’ortografia e altro ancora. Consente di migliorare la chiarezza e la traduzione dei contenuti di Experience League. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 Altre best practice e risorse:
 

@@ -275,7 +275,7 @@ Visualizzato:
 
 Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fine di un articolo. Permette di visualizzare collegamenti correlati. Quando viene eseguito il rendering dell’articolo, questo può essere formattato come intestazione di livello 2 (##) senza essere aggiunto al minisommario.
 
-![sintassi morelikethis](assets/more-like-this-syntax.png)
+![morelikethis sintassi](assets/more-like-this-syntax.png)
 
 Visualizzato:
 
@@ -307,7 +307,7 @@ Durante la traduzione automatica, gli elementi con i tag `` vengono verificati
 ```
 
 >[!NOTE]
-Tra le tre opzioni di assegnazione tag, questa è la più importante per offrire un&#39;elevata qualità ed è obbligatoria.
+Tra le tre opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
 
 **`[!DNL]`**
 

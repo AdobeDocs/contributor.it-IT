@@ -3,7 +3,7 @@ title: Codice di condotta di Adobe
 description: Codice di condotta di Adobe  per segnalare problemi e inviare modifiche
 exl-id: ff9c1cc5-8f65-40bb-8d5b-b7d42a5c08c2
 source-git-commit: 06b0a397f0612e5ecfca82fc7105a45ed167efc9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 100%
 

@@ -1,15 +1,14 @@
 ---
 title: Codice di condotta di Adobe
-description: 'Codice di condotta di Adobe '
-translation-type: ht
+description: Codice di condotta di Adobe
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 100%
 
 ---
 
-# Codice di condotta di Adobe
+# Codice di condotta di Adobe 
 
 ## Il nostro impegno
 

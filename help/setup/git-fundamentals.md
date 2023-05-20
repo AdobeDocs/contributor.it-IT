@@ -3,7 +3,7 @@ title: Nozioni di base sulla documentazione Git e GitHub
 description: Il presente articolo illustra una panoramica dell’archivio Git, GitHub, il modo in cui il contenuto viene organizzato e le convenzioni di denominazione che vengono utilizzate per la documentazione di Adobe.
 exl-id: 2b2ec764-4201-4bcd-802d-a034d6675793
 source-git-commit: 90122796acee9214ba96360eb7b5ff5c321a4bd6
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '660'
 ht-degree: 100%
 
