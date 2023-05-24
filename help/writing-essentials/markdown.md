@@ -5,7 +5,7 @@ exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
 workflow-type: tm+mt
 source-wordcount: '1421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ Visualizzato:
 
 * First item in an unordered list.
 * Another item.
-* Eccoci di nuovo.
+* Eccone un altro.
 
 È inoltre possibile incorporare elenchi all’interno di elenchi e aggiungere contenuto tra gli elementi di un elenco.
 
@@ -119,7 +119,7 @@ Visualizzato:
 
    >[!NOTE]
    >
-   >Questo è il testo della nota.
+   >Questa è una nota.
 
 1. Do another step.
 
@@ -275,7 +275,7 @@ Visualizzato:
 
 Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fine di un articolo. Permette di visualizzare collegamenti correlati. Quando viene eseguito il rendering dell’articolo, questo può essere formattato come intestazione di livello 2 (##) senza essere aggiunto al minisommario.
 
-![morelikethis sintassi](assets/more-like-this-syntax.png)
+![sintassi morelikethis](assets/more-like-this-syntax.png)
 
 Visualizzato:
 
