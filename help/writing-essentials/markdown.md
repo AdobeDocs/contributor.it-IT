@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 73c2a6b0abb9b0c8e1febc4b7dc5d74a3753ebac
+source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 100%
+source-wordcount: '1431'
+ht-degree: 96%
 
 ---
 
@@ -185,7 +185,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown.](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ` `` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` `` `javascript`
+Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ``` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` ```javascript`
 
 Esempi:
 
@@ -280,34 +280,35 @@ Il componente “Altri argomenti correlati” in AEM viene visualizzato alla fin
 Visualizzato:
 
 >[!MORELIKETHIS]
->* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
->* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
-
+>
+* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
+* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
 ### UICONTROL e DNL
 
 Tutto il contenuto della guida Markdown viene localizzato inizialmente utilizzando la traduzione automatica. Se la guida non è mai stata localizzata, viene mantenuta la traduzione automatica. Se invece il contenuto della guida è stato localizzato in passato, la traduzione automatica verrà temporaneamente utilizzata come segnaposto finché la traduzione umana non sarà stata finalizzata.
 
-**&grave;&grave;**
+**``**
 
-Durante la traduzione automatica, gli elementi con i tag &grave;&grave; vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad es. riferimenti di Analytics in italiano).
+Durante la traduzione automatica, gli elementi con i tag `` vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad es. riferimenti di Analytics in italiano).
 
 **Esempio:**
 
-1. Passa alla schermata **[!UICONTROL Run Process]**.
-1. Scegli **[!UICONTROL File > Print > Print All]** per stampare tutti i file sul server.
-1. Viene visualizzata la finestra di dialogo [!UICONTROL Processing Rules].
+1. Vai a **Esegui processo** schermo.
+1. Scegli **File** > **Stampa** > **Stampa tutto** per stampare tutti i file sul server.
+1. Viene visualizzata la finestra di dialogo Regole di elaborazione.
 
 **Origine:**
 
 ```markdown
-1. Go to the **[!UICONTROL Run Process]** screen.
-1. Choose **[!UICONTROL File > Print > Print All]** to print all the files on your server.
-1. The [!UICONTROL Processing Rules] dialog box appears.
+1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
+1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
+1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
 
 >[!NOTE]
->Tra le tre opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
+>
+Tra le tre opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
 
 **`[!DNL]`**
 
@@ -315,14 +316,14 @@ Di regola, usiamo un elenco di termini da “Non tradurre” per istruire i moto
 
 **Esempio:**
 
-* Con [!DNL Target], puoi creare test A/B per trovare il metodo ottimale
-* Adobe Analytics è una soluzione potente che ti permette di raccogliere dati analitici sul tuo sito. [!DNL Analytics] può anche aiutarti nella generazione di rapporti per utilizzare facilmente tali dati.
+* Con Target puoi creare test A/B per trovare il metodo ottimale
+* Adobe Analytics è una soluzione potente che ti permette di raccogliere dati analitici sul tuo sito. Analytics può anche aiutarti nella generazione di rapporti per utilizzare facilmente tali dati.
 
 **Origine:**
 
 ```markdown
-* With [!DNL Target], you can create A/B tests to find the optimal 
-* Adobe Analytics is a powerful solution to collect analytics on your site. [!DNL Analytics] can also help you with reporting to easily digest that data.
+* With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
+* Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
 
 ## Suggerimenti e risoluzione dei problemi
