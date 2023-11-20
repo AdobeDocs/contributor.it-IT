@@ -2,10 +2,10 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: bd0a7b34320435e1cebae95bc267ddf05b06a0f9
+source-git-commit: d3d478f8745c14ee500a43021597eecfebc7b06b
 workflow-type: tm+mt
-source-wordcount: '1431'
-ht-degree: 96%
+source-wordcount: '1466'
+ht-degree: 92%
 
 ---
 
@@ -292,23 +292,25 @@ Tutto il contenuto della guida Markdown viene localizzato inizialmente utilizzan
 
 Durante la traduzione automatica, gli elementi con i tag `` vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad es. riferimenti di Analytics in italiano).
 
-**Esempio:**
+**Esempio di contenuto sorgente:**
 
-1. Vai a **Esegui processo** schermo.
-1. Scegli **File** > **Stampa** > **Stampa tutto** per stampare tutti i file sul server.
-1. Viene visualizzata la finestra di dialogo Regole di elaborazione.
+1. Vai a **&amp;lbrack;!UICONTROL Esegui Process&amp;rbrack;** schermo.
+1. Scegli **&amp;lbrack;!UICONTROL File&amp;rbrack; > &amp;lbrack;!UICONTROL Print&amp;rbrack; > &amp;lbrack;!UICONTROL Print All&amp;rbrack;** per stampare tutti i file sul server.
+1. Viene visualizzata la finestra di dialogo &amp;lbrack;!UICONTROL Regole di elaborazione&amp;rbrack;.
 
-**Origine:**
+<!--
+**Source:**
 
 ```markdown
 1. Go to the **&lbrack;!UICONTROL Run Process&rbrack;** screen.
 1. Choose **&lbrack;!UICONTROL File&rbrack; > &lbrack;!UICONTROL Print&rbrack; > &lbrack;!UICONTROL Print All&rbrack;** to print all the files on your server.
 1. The &lbrack;!UICONTROL Processing Rules&rbrack; dialog box appears.
 ```
+-->
 
 >[!NOTE]
 >
-Tra le tre opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
+Tra le due opzioni di assegnazione dei tag, questa è la più importante per offrire un’elevata qualità ed è obbligatoria.
 
 **`[!DNL]`**
 
@@ -316,15 +318,17 @@ Di regola, usiamo un elenco di termini da “Non tradurre” per istruire i moto
 
 **Esempio:**
 
-* Con Target puoi creare test A/B per trovare il metodo ottimale
-* Adobe Analytics è una soluzione potente che ti permette di raccogliere dati analitici sul tuo sito. Analytics può anche aiutarti nella generazione di rapporti per utilizzare facilmente tali dati.
+* Con &amp;lbrack;!DNL Target&amp;rbrack;, puoi creare test A/B per trovare il metodo ottimale
+* Adobe Analytics è una soluzione potente che ti permette di raccogliere dati analitici sul tuo sito. &amp;lbrack;!DNL Analytics&amp;rbrack; può anche aiutarti nella generazione di rapporti per utilizzare facilmente tali dati.
 
-**Origine:**
+<!--
+**Source:**
 
 ```markdown
 * With &lbrack;!DNL Target&rbrack;, you can create A/B tests to find the optimal 
 * Adobe Analytics is a powerful solution to collect analytics on your site. &lbrack;!DNL Analytics&rbrack; can also help you with reporting to easily digest that data.
 ```
+-->
 
 ## Suggerimenti e risoluzione dei problemi
 
