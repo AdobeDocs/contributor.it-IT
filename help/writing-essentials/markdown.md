@@ -3,9 +3,9 @@ title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
 source-git-commit: fff920c9e98ca821a4180157174c2a2ee1b84cb8
-workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '1340'
+ht-degree: 100%
 
 ---
 
@@ -145,7 +145,7 @@ Le tabelle semplici funzionano correttamente in Markdown, mentre le tabelle che 
 
 Per ulteriori informazioni sulla creazione di tabelle, vedi:
 
-* Da GitHub, [Organizing information with tables](https://help.github.com/articles/organizing-information-with-tables/)
+* [Organizzare le informazioni con le tabelle](https://help.github.com/articles/organizing-information-with-tables/) su GitHub
 * La web app [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Convertire tabelle HTML in Markdown](https://jmalarcon.github.io/markdowntables/)
 
@@ -183,7 +183,7 @@ Visualizzato:
 
 ### Blocchi di codice
 
-Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta [Supporto nativo dei blocchi di codice di Markdown.](https://daringfireball.net/projects/markdown/syntax#precode)
+Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta il [supporto nativo di Markdown per i blocchi di codice](https://daringfireball.net/projects/markdown/syntax#precode)
 
 Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ``` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` ```javascript`
 
@@ -281,8 +281,8 @@ Visualizzato:
 
 >[!MORELIKETHIS]
 >
-* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
-* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
+>* [Articolo 1](https://helpx.adobe.com/it/support/analytics.html)
+>* [Articolo 2](https://helpx.adobe.com/it/support/audience-manager.html)
 
 ### UICONTROL e DNL
 
@@ -292,9 +292,9 @@ Tutto il contenuto della guida Markdown viene localizzato inizialmente utilizzan
 
 Durante la traduzione automatica, gli elementi con i tag `` vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad es. riferimenti di Analytics in italiano).
 
-**Esempio di contenuto sorgente:**
+**Esempio di contenuto di origine:**
 
-![testo uicontrol di esempio](assets/sample-uicontrol.png)
+![esempio di testo uicontrol](assets/sample-uicontrol.png)
 
 <!--
 **Source:**
@@ -314,9 +314,9 @@ Durante la traduzione automatica, gli elementi con i tag `` vengono verificati
 
 Di regola, usiamo un elenco di termini da “Non tradurre” per istruire i motori di traduzione automatica su ciò che mantenere in inglese. Gli elementi più importanti sono ad esempio nomi di soluzioni lunghi, come “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. Tuttavia, ci possono essere casi in cui è necessario costringere il motore a usare l’inglese perché il termine in questione può essere utilizzato in modo specifico o generale. Il caso più evidente sarebbe quello dei nomi brevi delle soluzioni come “Analytics”, “Campaign”, “Target”, ecc. In questo caso è difficile per una macchina capire che si tratta di nomi di soluzioni e non di termini generici. Il tag può essere utilizzato anche per nomi/funzioni di terze parti che rimangono sempre in inglese o per sezioni più brevi di testo, come un termine o una frase, che devono rimanere in inglese.
 
-**Esempio di contenuto sorgente:**
+**Esempio di contenuto di origine:**
 
-![testo dnl di esempio](assets/sample-dnl.png)
+![esempio di testo dnl](assets/sample-dnl.png)
 
 <!--
 **Source:**
@@ -358,7 +358,7 @@ Queste sono le codifiche per le versioni “intelligenti” di tali segni di pun
 
 Se utilizzi delle parentesi acute nel testo (non nel codice) del file (ad esempio, per indicare un segnaposto) devi codificare manualmente le parentesi acute. In caso contrario, verranno interpretate da Markdown come un tag HTML.
 
-Ad esempio, codificare `<script name>` come `&lt;script name&gt;`
+Ad esempio, codifica `<script name>` come `&lt;script name&gt;`
 
 ### E commerciale nei titoli
 
