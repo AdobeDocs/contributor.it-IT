@@ -5,7 +5,7 @@ cloud: Experience Cloud
 index: true
 source-git-commit: d8a27428d0c264ae95740ad18231f96602a9136f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
    + [Configurare un archivio Git locale](setup/local-repo.md)
    + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
    + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
-+ Nozioni di base di scrittura {#writing-essentials}
++ Nozioni di base sulla scrittura {#writing-essentials}
    + [Utilizzo di Markdown](writing-essentials/markdown.md)
    + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
    + [Collegamento](writing-essentials/linking.md)

@@ -6,8 +6,8 @@ seo-description: The guide describes how you can contribute to the [!UICONTROL A
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
 source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
 workflow-type: tm+mt
-source-wordcount: '904'
-ht-degree: 100%
+source-wordcount: '927'
+ht-degree: 88%
 
 ---
 
@@ -56,7 +56,7 @@ Per fornire un feedback più dettagliato, apportare modifiche rapide è un buon 
 
    È necessario inviare un Adobe CLA una sola volta.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
+1. Nell&#39;area di feedback visualizzata nella parte inferiore dell&#39;articolo, fai clic su **[!UICONTROL Opzioni di feedback dettagliate]**, quindi fai clic su **[!UICONTROL Suggerisci una modifica]** per passare al file Markdown di origine su GitHub.
 
    ![Icona Modifica questa pagina](/help/assets/feedback-suggest-edit.png)
 
@@ -74,21 +74,21 @@ Per fornire un feedback più dettagliato, apportare modifiche rapide è un buon 
 
 1. Dopo aver apportato le modifiche, scorri fino alla parte inferiore della pagina.
 
-   Immetti un titolo e una descrizione per la tua richiesta pull, quindi fai clic su **[!UICONTROL Propose file change]** come mostrato nella figura seguente:
+   Immetti un titolo e una descrizione per la PR, quindi fai clic su **[!UICONTROL Propose file change]** come mostrato nella figura seguente:
 
    ![Proporre una modifica](assets/submit-pull-request.png)
 
    >[!NOTE]
    >
-   >Se ricevi un messaggio di errore di convalida relativo alla firma di un contratto CLA (Contributor License Agreement), fai clic su **[!UICONTROL Details]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
+   >Se ricevi un messaggio di errore di convalida, relativo alla firma di un contratto di licenza da collaboratore (CLA), fai clic su **[!UICONTROL Dettagli]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
 
 Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie. 
 
 ## Segnalare un problema
 
-Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Report an issue]**.
+Un altro modo semplice per farci sapere di un problema con dei contenuti è utilizzare **[!UICONTROL Segnala un problema]**.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
+1. Nell&#39;area di feedback visualizzata nella parte inferiore dell&#39;articolo, fare clic su **[!UICONTROL Opzioni di feedback dettagliate]**, quindi su **[!UICONTROL Segnala un problema]** per passare al file Markdown di origine su GitHub.
 
    ![Segnalare un problema](assets/feedback-report-issue.png)
 

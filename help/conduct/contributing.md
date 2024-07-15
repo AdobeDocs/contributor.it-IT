@@ -4,7 +4,7 @@ description: Per contribuire a questo progetto, segui questa serie di linee guid
 exl-id: 01dc5fd4-4676-41b1-be7b-aa4a9ea2fe14
 source-git-commit: 758ff966b959b614dd9250017c2a4eb5df47ffd2
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '284'
 ht-degree: 100%
 
 ---
@@ -52,4 +52,4 @@ rivolgiti ai committenti esistenti per parlarne con loro.
 
 ## Problemi di sicurezza
 
-I problemi di sicurezza non devono essere segnalati in questo registro di problemi, ma puoi [segnalare un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)
+I problemi di sicurezza non devono essere segnalati in questo registro di problemi, [Segnala un problema ai nostri esperti di sicurezza](https://helpx.adobe.com/it/security/alertus.html)

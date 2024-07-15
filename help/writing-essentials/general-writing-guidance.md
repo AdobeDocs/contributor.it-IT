@@ -5,8 +5,8 @@ description: Scopri le linee guida per l’authoring ed editoriali per i collabo
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
 source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
 workflow-type: tm+mt
-source-wordcount: '2224'
-ht-degree: 100%
+source-wordcount: '2203'
+ht-degree: 99%
 
 ---
 
@@ -188,17 +188,17 @@ Non devi preoccuparti di sapere se il tuo prodotto è localizzato o quali sono l
 
 * `DNL`
 
-   DNL significa _do not localize_ (non localizzare). Lo si utilizza solo per i nomi di prodotti Adobe con marchio registrato, che devono rimanere sempre in inglese.
+  DNL significa _do not localize_ (non localizzare). Lo si utilizza solo per i nomi di prodotti Adobe con marchio registrato, che devono rimanere sempre in inglese.
 
-   Esempi di sintassi: `[!DNL Adobe Campaign]` o `[!DNL Workfront]`
+  Esempi di sintassi: `[!DNL Adobe Campaign]` o `[!DNL Workfront]`
 
-   DNL non deve essere usato per nomi di file o URL.
+  DNL non deve essere usato per nomi di file o URL.
 
 * `UICONTROL`
 
-   UICONTROL indica un controllo dell’interfaccia (ad esempio un’opzione, un campo, una scheda, una pagina, un gruppo di opzioni o il nome di una funzione nell’interfaccia utente).
+  UICONTROL indica un controllo dell’interfaccia (ad esempio un’opzione, un campo, una scheda, una pagina, un gruppo di opzioni o il nome di una funzione nell’interfaccia utente).
 
-   Esempio di sintassi: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
+  Esempio di sintassi: `Select **[!UICONTROL Project]**, then select **[!UICONTROL Save]**.`
 
 >[!IMPORTANT]
 >
@@ -218,7 +218,7 @@ _I tipi di pubblico sono raccolte di visitatori (un elenco di ID visitatore). Il
 
 Primo paragrafo di esempio (attività):
 
-_Creazione della sorgente attributo cliente (file CSV e FIN) e caricamento dei dati. Puoi attivare l&#39;origine dati quando lo desideri. Quando la sorgente dati è attiva, condividi i dati attributo in Analytics e Target._
+_Creazione della sorgente attributo cliente (file CSV e FIN) e caricamento dei dati. Puoi attivare l&#39;origine dati quando lo desideri. Una volta che l&#39;origine dati è attiva, condividere i dati degli attributi con Analytics e Target._
 
 ### Suggerimenti SEO per i primi paragrafi {#seo}
 

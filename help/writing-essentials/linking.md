@@ -35,27 +35,27 @@ Per creare un collegamento in linea da un articolo a un altro articolo all’int
 
 - Un articolo in una directory effettua un collegamento a un altro articolo nella stessa directory:
 
-   `[link text](article-name.md)`
+  `[link text](article-name.md)`
 
 - Un articolo effettua un collegamento da una sottodirectory a un articolo nella directory principale:
 
-   `[link text](../article-name.md)`
+  `[link text](../article-name.md)`
 
 - Un articolo effettua un collegamento da una sottodirectory a un articolo nella directory principale:
 
-   `[link text](../../article-name.md)`
+  `[link text](../../article-name.md)`
 
 - Un articolo nella directory principale effettua un collegamento a un articolo in una sottodirectory:
 
-   `[link text](./directory/article-name.md)`
+  `[link text](./directory/article-name.md)`
 
 - Un articolo in una sottodirectory effettua un collegamento a un articolo in un’altra sottodirectory:
 
-   `[link text](../directory/article-name.md)`
+  `[link text](../directory/article-name.md)`
 
 - Un articolo in una sottodirectory effettua un collegamento a un articolo in un’altra sottodirectory:
 
-   `[link text](../../directory/article-name.md)`
+  `[link text](../../directory/article-name.md)`
 
 ## Collegamento ad ancoraggi
 
@@ -63,21 +63,21 @@ Non è necessario creare ancoraggi. Vengono generati automaticamente in fase di 
 
 - Per effettuare un collegamento a un’intestazione all’interno dello stesso articolo:
 
-   `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
+  `[link](#the-text-of-the-level2-section-separated-by-hyphens)`
 
-   `[Link to anchors](#links-to-anchors)`
+  `[Link to anchors](#links-to-anchors)`
 
 - Per effettuare un collegamento a un ancoraggio in un altro articolo nella stessa sottodirectory:
 
-   `[link text](article-name.md#anchor-name)`
+  `[link text](article-name.md#anchor-name)`
 
-   `[Configure your profile](overview.md#getting-started)`
+  `[Configure your profile](overview.md#getting-started)`
 
 - Per effettuare un collegamento a un ancoraggio in un’altra sottodirectory del servizio:
 
-   `[link text](../directory/article-name.md#anchor-name)`
+  `[link text](../directory/article-name.md#anchor-name)`
 
-   `[Configure your profile](../overview.md#configure-your-profile)`
+  `[Configure your profile](../overview.md#configure-your-profile)`
 
 ## Collegamento a immagini
 
@@ -85,8 +85,8 @@ Come procedura ottimale, le immagini e i file vengono archiviati in una director
 
 - Un articolo effettua un collegamento a un’immagine nella `assets` sottodirectory:
 
-   `![alt text](assets/image-name.png)`
+  `![alt text](assets/image-name.png)`
 
 - Un articolo effettua un collegamento a un’immagine nella `assets/no-localize` sottodirectory:
 
-   `![alt text](assets/no-localize/image-name.png)`
+  `![alt text](assets/no-localize/image-name.png)`

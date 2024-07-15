@@ -4,8 +4,8 @@ description: Il presente articolo fornisce indicazioni per creare l’archivio l
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
 source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 100%
+source-wordcount: '652'
+ht-degree: 98%
 
 ---
 
@@ -28,7 +28,7 @@ Per contribuire alla documentazione di Adobe, puoi effettuare il forking dell’
 
 ## Determinare l’archivio
 
-Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in vari archivi su [github.com](https://www.github.com/adobedocs).
+Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in diversi archivi all&#39;indirizzo [github.com](https://www.github.com/adobedocs).
 
 1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub).
 
