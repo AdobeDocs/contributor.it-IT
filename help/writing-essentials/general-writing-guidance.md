@@ -84,7 +84,7 @@ La capacità di scrivere una procedura (contenuti di tipo _attività_) non è un
 **Linee guida per i passaggi**
 
 * Una procedura consiste in una serie di passaggi. Ogni passaggio è composto da un comando breve, numerato, _a frase singola_.
-* Inizia ogni passaggio con un verbo o con _Per_ + infinito (per orientare il lettore verso l&#39;obiettivo, ad esempio _Per mantenere l’accesso, seleziona **Resta connesso**_). Se un passaggio ha un obiettivo specifico nell’ambito della procedura generale, indica l’obiettivo prima dell’azione.
+* Inizia ogni passaggio con un verbo o con _Per_ + infinito (per orientare il lettore verso l&#39;obiettivo, ad esempio _Per mantenere l’accesso, seleziona **Resta connesso**&#x200B;_). Se un passaggio ha un obiettivo specifico nell’ambito della procedura generale, indica l’obiettivo prima dell’azione.
 * Per aggiungere informazioni sul passaggio (contenuti di tipo _informazioni sul passaggio_, aggiungilo dopo il passaggio (rientrato rispetto al passaggio ) o dopo la risorsa (che può essere una schermata, un video o un elenco di descrizioni dell’interfaccia).
 * Se il passaggio include due azioni, ad esempio _Seleziona A, quindi B_, scrivila come una singola, breve frase.
 * Limita ogni attività a circa 7-10 passaggi. Se si creano più di dieci passaggi in un’attività, è probabile che sia necessario suddividerla in due attività. In casi simili, adotta l&#39;approccio che ritieni più appropriato.
