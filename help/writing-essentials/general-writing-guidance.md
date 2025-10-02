@@ -3,10 +3,10 @@ lastModified: 2018-06-28T00:00:00Z
 title: Linee guida sullo stile di authoring per i collaboratori esterni
 description: Scopri le linee guida per l’authoring ed editoriali per i collaboratori esterni di Experience League.
 exl-id: 874f88d7-18ad-4ac8-bfa3-737255652bbc
-source-git-commit: 03d46c9ffb664824f9526f781d776069d486f271
+source-git-commit: 9b3e4e2a7a007d4e417a5bf156d2290ea60b64ec
 workflow-type: tm+mt
 source-wordcount: '2203'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -30,7 +30,7 @@ Tieni presente quanto segue durante la scrittura della documentazione.
 
 ## Best practice per la scrittura tecnica {#writing-tips}
 
-La scrittura tecnica, in particolare per la documentazione software, è un settore specializzato. Persino il romanziere più prolifico entra in agitazione al momento di affrontare la scrittura tecnica, non perché il materiale sia complesso o tecnico, ma perché non è facile _semplicare_ informazioni tecniche e complesse. Per avere successo, il contenuto deve essere strutturalmente coerente, analizzabile, riutilizzabile e passare lungo la pipeline di pubblicazione senza errori di struttura e sintassi.
+La scrittura tecnica, in particolare per la documentazione software, è un settore specializzato. Persino il romanziere più prolifico entra in agitazione al momento di affrontare la scrittura tecnica, non perché il materiale sia complesso o tecnico, ma perché non è facile *semplicare* informazioni tecniche e complesse. Per avere successo, il contenuto deve essere strutturalmente coerente, analizzabile, riutilizzabile e passare lungo la pipeline di pubblicazione senza errori di struttura e sintassi.
 
 Le sezioni seguenti descrivono i problemi comuni a cui i nuovi autori devono prestare attenzione:
 
@@ -38,17 +38,17 @@ Le sezioni seguenti descrivono i problemi comuni a cui i nuovi autori devono pre
 
 Se sono presenti due titoli consecutivi, senza alcun testo che li separi, aggiungi del testo che introduca il secondo titolo. In alternativa, puoi rimuovere uno dei due titoli. È probabile che il secondo sia superfluo.
 
-Ad esempio, _Panoramica_ qui non ha uno scopo:
+Ad esempio, *Panoramica* qui non ha uno scopo:
 
 ![Doppio titolo](assets/headings-double.png)
 
-* Inoltre, se il secondo titolo è _Panoramica_, probabilmente è superfluo. Il primo titolo H1 e il primo paragrafo fungono da panoramica concettuale sull’argomento dell’articolo.
+* Inoltre, se il secondo titolo è *Panoramica*, probabilmente è superfluo. Il primo titolo H1 e il primo paragrafo fungono da panoramica concettuale sull’argomento dell’articolo.
 
-* Analogamente, ai fini SEO, titoli isolati come _Panoramica_ e _Introduzione_ non sono, di per sé, utili. Nomina il prodotto o la funzione che stai presentando. (Esempio: _Panoramica dei rapporti di fallout_)
+* Analogamente, ai fini SEO, titoli isolati come *Panoramica* e *Introduzione* non sono, di per sé, utili. Nomina il prodotto o la funzione che stai presentando. (Esempio: *Panoramica dei rapporti di fallout*)
 
 ### Tiitoli di riferimenti incrociati incoerenti {#maps}
 
-Utilizza il titolo _Ulteriori informazioni_ per introdurre un elenco di riferimenti incrociati (o mappe). Esempio:
+Utilizza il titolo *Ulteriori informazioni* per introdurre un elenco di riferimenti incrociati (o mappe). Esempio:
 
 ![Elenco di riferimenti incrociati](assets/headings-more-info.png)
 
@@ -79,17 +79,17 @@ Poiché gestiamo manualmente il file del sommario, queste mancate corrispondenze
 
 ### Procedure {#steps}
 
-La capacità di scrivere una procedura (contenuti di tipo _attività_) non è un talento innato. Ma con la pratica è possibile scrivere una procedura chiara e leggibile.
+La capacità di scrivere una procedura (contenuti di tipo *attività*) non è un talento innato. Ma con la pratica è possibile scrivere una procedura chiara e leggibile.
 
 **Linee guida per i passaggi**
 
-* Una procedura consiste in una serie di passaggi. Ogni passaggio è composto da un comando breve, numerato, _a frase singola_.
-* Inizia ogni passaggio con un verbo o con _Per_ + infinito (per orientare il lettore verso l&#39;obiettivo, ad esempio _Per mantenere l’accesso, seleziona **Resta connesso**&#x200B;_). Se un passaggio ha un obiettivo specifico nell’ambito della procedura generale, indica l’obiettivo prima dell’azione.
-* Per aggiungere informazioni sul passaggio (contenuti di tipo _informazioni sul passaggio_, aggiungilo dopo il passaggio (rientrato rispetto al passaggio ) o dopo la risorsa (che può essere una schermata, un video o un elenco di descrizioni dell’interfaccia).
-* Se il passaggio include due azioni, ad esempio _Seleziona A, quindi B_, scrivila come una singola, breve frase.
+* Una procedura consiste in una serie di passaggi. Ogni passaggio è composto da un comando breve, numerato, *a frase singola*.
+* Inizia ogni passaggio con un verbo o con *Per* + infinito (per orientare il lettore verso l&#39;obiettivo, ad esempio *Per mantenere l’accesso, seleziona **Resta connesso***). Se un passaggio ha un obiettivo specifico nell’ambito della procedura generale, indica l’obiettivo prima dell’azione.
+* Se disponi di informazioni sul passaggio (un tipo di contenuto denominato *informazioni sul passaggio*), aggiungilo dopo il passaggio (rientrato rispetto al passaggio ) o dopo la risorsa (uno screenshot, un video o un elenco di descrizioni dell&#39;interfaccia).
+* Se il passaggio include due azioni, ad esempio *Seleziona A, quindi B*, scrivila come una singola, breve frase.
 * Limita ogni attività a circa 7-10 passaggi. Se si creano più di dieci passaggi in un’attività, è probabile che sia necessario suddividerla in due attività. In casi simili, adotta l&#39;approccio che ritieni più appropriato.
 * Nella documentazione del prodotto, non utilizzare i titoli come passaggi. (Eccezione riportata di seguito per i tutorial.)
-* Per i tutorial su più pagine, è possibile utilizzare i titoli come passaggi. Tuttavia, in questo caso non devono essere numerati. Piuttosto, scrivi per intero _Passaggio 1:_, _Passaggio 2:_ e così via.
+* Per i tutorial su più pagine, è possibile utilizzare i titoli come passaggi. Tuttavia, in questo caso non devono essere numerati. Piuttosto, scrivi per intero *Passaggio 1:*, *Passaggio 2:* e così via.
 
 **Procedura di esempio**
 
@@ -120,29 +120,29 @@ Il sommario precedente è un buon esempio perché:
 
 ## Metadati di titolo e descrizione {#metadata}
 
-I metadati di _titolo_ e _descrizione_ sono importanti per SEO (Search Engine Optimization), l’individuazione dei contenuti e i punteggi di qualità dei contenuti in Experience League.
+I metadati di *titolo* e *descrizione* sono importanti per SEO (Search Engine Optimization), l’individuazione dei contenuti e i punteggi di qualità dei contenuti in Experience League.
 
 Di seguito sono riportati alcuni esempi di titoli e descrizioni:
 
 **Descrizioni per articoli su concetti**
 
-* _Scopri di più sui segmenti in Adobe Analytics. Ottieni aiuto per la configurazione del pannello Segmentazione in un’area di lavoro._
-* _Trova informazioni sull’utilizzo dei segmenti in un rapporto Visualizzazioni pagina in Adobe Analytics._
+* *Scopri di più sui segmenti in Adobe Analytics. Ottieni aiuto per la configurazione del pannello Segmentazione in un’area di lavoro.*
+* *Trova informazioni sull’utilizzo dei segmenti in un rapporto Visualizzazioni pagina in Adobe Analytics.*
 
 **Descrizioni per articoli su procedure/attività**
 
-* _Scopri come creare un segmento in Adobe Analytics._
-* _Crea un segmento in Adobe Analytics. Scopri come selezionare, configurare ed eseguire un rapporto basato sul segmento creato._
+* *Scopri come creare un segmento in Adobe Analytics.*
+* *Crea un segmento in Adobe Analytics. Scopri come selezionare, configurare ed eseguire un rapporto basato sul segmento creato.*
 
 La forma che utilizzi dipende dalla lunghezza e dall’ambito dell’articolo.
 
 **Titolo per un articolo su concetti**
 
-* _Segmenti nei rapporti Visualizzazioni pagina_
+* *Segmenti nei rapporti Visualizzazioni pagina*
 
 **Titolo per un articolo su procedure/attività**
 
-* _Creare un segmento per un rapporto Visualizzazioni pagina_
+* *Creare un segmento per un rapporto Visualizzazioni pagina*
 
 (Ricorda che il carattere barra verticale e il nome del prodotto vengono aggiunti automaticamente ai titoli).
 
@@ -157,12 +157,10 @@ Di seguito sono riportati metodi semplici per migliorare la progettazione, la ch
 | Evita avverbi deboli e inutili | *Molto*, *estremamente*, *incredibilmente*... <p>Gli avverbi sono parole aggiuntive che non aggiungono un significato importante se si utilizzano verbi, periodi e aggettivi forti e precisi. |
 | Usa verbi forti nei titoli e nelle [voci del sommario](#using-toc) | Esempi:<p>**Debole:** *Creazione e gestione delle caratteristiche* <p>**Forte:** *Creare e gestire le caratteristiche* |
 | Usa l&#39;iniziale [lmaiuscola](https://docs.microsoft.com/it-it/style-guide/capitalization) solo nella prima parola | Nel dubbio, non scrivere con l’iniziale maiuscola. Nei titoli, utilizza l’iniziale maiuscola solo per la prima parola. Utilizza l’iniziale maiuscole nei sostantivi propri. Nelle procedure, utilizza le iniziali maiuscole esattamente come sono riportate nell’interfaccia. |
-| Ricorda questi piccoli suggerimenti per chiarezza | <ul><li>Evita di usare *Al fine di* (non aggiunge alcun significato). È sufficiente *Per.*</li><li>Evita *Utilizzare.* Potrebbe sembrare più tecnico, ma non lo è. *Utilizzare* significa *fare buon uso di qualcosa, soprattutto di qualcosa che non era destinato allo scopo ma risulterà utile*.</li><li>Evita i punti e virgola: utilizza piuttosto un punto e inizia una nuova frase. I punti e virgola presentano una complessità inutile.</li><li>Due punti: usa i due punti per introdurre un elenco. Usa i due punti con moderazione all’interno delle frasi. Usa la maiuscola nella prima parola dopo due punti seguiti da un a capo.</li><li>Usa la virgola seriale (tre virgole in un elenco).</li><li>Mantieni la lunghezza della frase sotto le 39 parole.</li><li>Navigazione: usa _vai a_ o _passa a_.</li><li>Evita il testo non elaborato dell’URL (usa testo di collegamento intuitivo), a meno che la visualizzazione del percorso completo non rappresenti un’informazione importante.</li></ul> |
+| Ricorda questi piccoli suggerimenti per chiarezza | <ul><li>Evita di usare *Al fine di* (non aggiunge alcun significato). È sufficiente *Per.*</li><li>Evita *Utilizzare.* Potrebbe sembrare più tecnico, ma non lo è. *Utilizzare* significa *fare buon uso di qualcosa, soprattutto di qualcosa che non era destinato allo scopo ma risulterà utile*.</li><li>Evita i punti e virgola: utilizza piuttosto un punto e inizia una nuova frase. I punti e virgola presentano una complessità inutile.</li><li>Due punti: usa i due punti per introdurre un elenco. Usa i due punti con moderazione all’interno delle frasi. Usa la maiuscola nella prima parola dopo due punti seguiti da un a capo.</li><li>Usa la virgola seriale (tre virgole in un elenco).</li><li>Mantieni la lunghezza della frase sotto le 39 parole.</li><li>Navigazione: usa *vai a* o *passa a*.</li><li>Evita il testo non elaborato dell’URL (usa testo di collegamento intuitivo), a meno che la visualizzazione del percorso completo non rappresenti un’informazione importante.</li></ul> |
 | Utilizza un controllo ortografico in VSC | Installa Code Spell Check (estensione) in Visual Studio Code. |
-| Cambia _fai clic su_ in _vai a_ o _seleziona_. | Il termine _clic_ fa riferimento a uno specifico dispositivo (che presenta problemi di accessibilità) e ora si tende a non utilizzarlo più. Di seguito sono riportati alcuni suggerimenti per formule alternative:<ul><li>Navigazione: _Vai a File > Stampa_.</li><li>Fare clic: _Seleziona File > Stampa_ o _Seleziona OK_. </li></ul>Per ulteriori idee sulla scelta migliore dei termini in varie situazioni, vedi [Descrizione delle interazioni con l’interfaccia utente](https://docs.microsoft.com/it-it/style-guide/procedures-instructions/describing-interactions-with-ui). |
+| Cambia *fai clic su* in *vai a* o *seleziona*. | Il termine *clic* fa riferimento a uno specifico dispositivo (che presenta problemi di accessibilità) e ora si tende a non utilizzarlo più. Di seguito sono riportati alcuni suggerimenti per formule alternative:<ul><li>Navigazione: *Vai a File > Stampa*.</li><li>Fare clic: *Seleziona File > Stampa* o *Seleziona OK*. </li></ul>Per ulteriori idee sulla scelta migliore dei termini in varie situazioni, vedi [Descrizione delle interazioni con l’interfaccia utente](https://docs.microsoft.com/it-it/style-guide/procedures-instructions/describing-interactions-with-ui). |
 | Esegui Acrolinx in VSC | Acrolinx verifica la presenza di problemi di stile e grammatica. Controlla gli URL, la terminologia, l’ortografia e altro ancora. Consente di migliorare la chiarezza e la traduzione dei contenuti di Experience League. |
-
-{style="table-layout:auto"}
 
 Altre best practice e risorse:
 
@@ -188,7 +186,7 @@ Non devi preoccuparti di sapere se il tuo prodotto è localizzato o quali sono l
 
 * `DNL`
 
-  DNL significa _do not localize_ (non localizzare). Lo si utilizza solo per i nomi di prodotti Adobe con marchio registrato, che devono rimanere sempre in inglese.
+  DNL significa *do not localize* (non localizzare). Lo si utilizza solo per i nomi di prodotti Adobe con marchio registrato, che devono rimanere sempre in inglese.
 
   Esempi di sintassi: `[!DNL Adobe Campaign]` o `[!DNL Workfront]`
 
@@ -206,7 +204,7 @@ Non devi preoccuparti di sapere se il tuo prodotto è localizzato o quali sono l
 
 ### Utilizzo di Adobe nei nomi dei prodotti {#product-names}
 
-Per l’identità aziendale, di solito includiamo _Adobe_ nel primo riferimento di un prodotto a livello di guida. A seconda dello spazio, è possibile omettere Adobe in un titolo, ma il primo riferimento nel corpo del testo deve includere il nome completo. Alcuni prodotti, come _Adobe Audition_ e _Adobe Premiere Pro_, richiedono l’uso di Adobe nel primo riferimento o in quello più importante in ogni documento, in quanto fa parte del nome legale, marchio di fabbrica.
+Per l’identità aziendale, di solito includiamo *Adobe* nel primo riferimento di un prodotto a livello di guida. A seconda dello spazio, è possibile omettere Adobe in un titolo, ma il primo riferimento nel corpo del testo deve includere il nome completo. Alcuni prodotti, come *Adobe Audition* e *Adobe Premiere Pro*, richiedono l’uso di Adobe nel primo riferimento o in quello più importante in ogni documento, in quanto fa parte del nome legale, marchio di fabbrica.
 
 ## Primi paragrafi {#firstparas}
 
@@ -214,17 +212,17 @@ Il primo paragrafo deve definire l’argomento e descrivere ciò che il lettore 
 
 Primo paragrafo di esempio (concetto):
 
-_I tipi di pubblico sono raccolte di visitatori (un elenco di ID visitatore). Il servizio Audience di Adobe gestisce la trasformazione dei dati dei visitatori in segmentazione del pubblico. La creazione e la gestione dei tipi di pubblico sono simili alla creazione e all’uso dei segmenti e in più permettono di condividere i segmenti di pubblico in Experience Cloud._
+*I tipi di pubblico sono raccolte di visitatori (un elenco di ID visitatore). Il servizio Audience di Adobe gestisce la trasformazione dei dati dei visitatori in segmentazione del pubblico. La creazione e la gestione dei tipi di pubblico sono simili alla creazione e all’uso dei segmenti e in più permettono di condividere i segmenti di pubblico in Experience Cloud.*
 
 Primo paragrafo di esempio (attività):
 
-_Creazione della sorgente attributo cliente (file CSV e FIN) e caricamento dei dati. Puoi attivare l&#39;origine dati quando lo desideri. Una volta che l&#39;origine dati è attiva, condividere i dati degli attributi con Analytics e Target._
+*Creazione della sorgente attributo cliente (file CSV e FIN) e caricamento dei dati. Puoi attivare l&#39;origine dati quando lo desideri. Una volta che l&#39;origine dati è attiva, condividere i dati degli attributi con Analytics e Target.*
 
 ### Suggerimenti SEO per i primi paragrafi {#seo}
 
 * Includi i termini di ricerca nei primi paragrafi.
 * Utilizza i termini utilizzati anche dai lettori.
-* Includi i sinonimi e, se necessario, eventuali termini precedenti non più in uso. Ad esempio, “Il Servizio Experience Cloud ID (ECID), noto in precedenza come _ID visitatore_ o con acronimi come MID, MCVID, fornisce un ID universale e costante che identifica i visitatori.”
+* Includi i sinonimi e, se necessario, eventuali termini precedenti non più in uso. Ad esempio, “Il Servizio Experience Cloud ID (ECID), noto in precedenza come *ID visitatore* o con acronimi come MID, MCVID, fornisce un ID universale e costante che identifica i visitatori.”
 * Includi termini SEO nei collegamenti.
 * Evita di inserire termini essenziali in tabelle complesse. Le tabelle complesse non producono risultati di ricerca affidabili. Il testo nelle immagini non è incluso nelle ricerche. Le didascalie sono incluse nelle ricerche.
 
