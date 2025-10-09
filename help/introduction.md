@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 2721a71924c46e1536394625c945bdd791e8ac70
+source-git-commit: 355ed3b7e1873272dd4c0626b51a48f37a026680
 workflow-type: tm+mt
 source-wordcount: '927'
-ht-degree: 88%
+ht-degree: 82%
 
 ---
 
@@ -25,9 +25,9 @@ Questo modello open source migliora la qualità dei contenuti e la comunicazione
 
 Come utente di questo materiale, a prescindere che tu sia un dipendente, un partner, un cliente o un potenziale cliente, hai la possibilità di contribuire a questa documentazione in diversi semplici modi.
 
-* Valuta l’utilità della pagina ❶ e scrivi un commento opzionale ❷
-* Segnala un problema relativo a una pagina specifica (richiede l’accesso Git) ❸
-* Inoltra una modifica rapida creando interi articoli, completi di risorse ed esempi di codice (richiede l’accesso Git) ❹
+* Valuta l&#39;utilità della pagina ❶ e scrive un commento facoltativo ❷
+* Segnala un problema relativo a una pagina specifica (richiede l&#39;accesso Git) ❸
+* Invia una modifica rapida tramite per l&#39;authoring di interi articoli, completi di risorse ed esempi di codice (è necessario l&#39;accesso Git) ❹
 
 ![Feedback](assets/feedback-options.png)
 
@@ -118,4 +118,4 @@ L’esperienza di modifica nel browser è ideale per modifiche minori o non freq
 
 Con un set di soluzioni quello di Adobe, la documentazione è in continua elaborazione. Se noti degli errori, segnala un problema; se hai suggerimenti sul materiale, comunicali. Indicaci quali informazioni stavi cercando. Comunicaci se non hai trovato ciò di cui avevi bisogno o se hai incontrato difficoltà a completare l’attività; informaci su come possiamo aiutarti a scoprire di più sulle soluzioni.
 
-Grazie da parte del team della documentazione collaborativa e di tutti gli autori e i produttori di contenuti di Experience League.
+Grazie al team della documentazione collaborativa e a tutti gli autori e i produttori di contenuti in Experience League. Apprezziamo il suo aiuto.
