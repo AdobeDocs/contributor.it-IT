@@ -2,11 +2,13 @@
 git-repo: https://github.com/AdobeDocs/contributor.it-IT
 solution: Experience Cloud
 cloud: Experience Cloud
+user-guide-title: Guida per i collaboratori
+user-guide-description: Istruzioni per i collaboratori della documentazione di Adobe
 index: true
-source-git-commit: d8a27428d0c264ae95740ad18231f96602a9136f
+source-git-commit: 38494017a88a638b8bf7b5033993c2647cfb09c6
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 86%
 
 ---
 
@@ -20,7 +22,7 @@ ht-degree: 100%
    + [Configurare un archivio Git locale](setup/local-repo.md)
    + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
    + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
-+ Nozioni di base sulla scrittura {#writing-essentials}
++ Nozioni di base di scrittura {#writing-essentials}
    + [Utilizzo di Markdown](writing-essentials/markdown.md)
    + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
    + [Collegamento](writing-essentials/linking.md)
