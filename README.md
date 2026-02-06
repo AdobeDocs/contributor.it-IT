@@ -1,8 +1,8 @@
 ---
 source-git-commit: 540aa4213e4fe4cb15d065262d88095c977b7b5f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 99%
+source-wordcount: '402'
+ht-degree: 100%
 
 ---
 # Contribuire agli articoli
@@ -19,7 +19,7 @@ Consulta la [Guida collaboratore per i documenti di Adobe](https://docs.adobe.co
 
 Il modo in cui contribuisci dipende da chi sei e dal tipo di modifiche con le quali desideri contribuire:
 
-### Modifiche minori o richieste minori
+### Richieste o modifiche minori
 
 Per inviare una richiesta, fai clic sul collegamento **Segnala un problema** in un articolo, per aprire un problema su GitHub. Specifica un titolo e una descrizione, quindi fai clic su **Enviar nuevo problema**.
 
@@ -37,7 +37,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Modifiche principali da dipendenti Adobe
 
-Se sei un autore, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione [!UICONTROL Adobe Experience Cloud] e il tuo lavoro è contribuire a o creare articoli tecnici, devi utilizzare l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`. Consulta la [Guida alla collaborazione interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=it).
+Se sei un autore tecnico, un responsabile di programma o uno sviluppatore del team di prodotto per una soluzione [!UICONTROL Adobe Experience Cloud] ed è tuo compito creare o contribuire ad articoli tecnici, utilizza l’archivio privato all’indirizzo `https://git.corp.adobe.com/AdobeDocs`. Consulta la [Guida alla collaborazione interna](https://experienceleague.adobe.com/docs/collaborative-doc-instructions/collaboration-guide/home.html?lang=it).
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
