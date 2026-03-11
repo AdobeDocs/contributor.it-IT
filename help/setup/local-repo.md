@@ -2,10 +2,10 @@
 title: Configurare localmente l’archivio Git
 description: Il presente articolo fornisce indicazioni per creare l’archivio locale Git e contribuire alla documentazione di Adobe, compresi i processi di forking e di clonazione.
 exl-id: 679c07a2-030b-4a30-ba14-7780f88dae11
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 98%
+source-wordcount: '656'
+ht-degree: 95%
 
 ---
 
@@ -28,13 +28,13 @@ Per contribuire alla documentazione di Adobe, puoi effettuare il forking dell’
 
 ## Determinare l’archivio
 
-Puoi effettuare il forking dell’archivio appropriato nell’account GitHub in modo da disporre delle autorizzazioni di lettura e scrittura per archiviare le modifiche proposte. La documentazione di [!UICONTROL Adobe Experience Cloud] risiede in diversi archivi all&#39;indirizzo [github.com](https://www.github.com/adobedocs).
+You fork the appropriate repository into your own GitHub account so that you have read/write permissions there to store your proposed changes. [!UICONTROL Adobe Experience Cloud] documentation resides in several different repositories at [github.com](https://www.github.com/adobedocs).
 
 1. Se non sai con certezza quale archivio utilizzare, consulta l’articolo dal browser Web. Fai clic sul collegamento **Edit** (icona della matita) in alto a destra nell’articolo (se non vedi il collegamento Modifica, tale contenuto non è ancora disponibile in GitHub).
 
 Per contribuire alla documentazione di Adobe è possibile creare e modificare localmente i file Markdown clonando l’archivio della documentazione corrispondente. Puoi quindi utilizzare le richieste di pull per unire le modifiche all’archivio condiviso centrale di sola lettura.
 
-<!---
+<!--
 ![GitHub Triangle](/assets/git-and-github-initial-setup.png)
 
 If you're new to GitHub, watch the following video for a conceptual overview of the forking and cloning process:
