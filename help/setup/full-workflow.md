@@ -2,10 +2,10 @@
 title: Flusso di lavoro dei contributi GitHub per modifiche principali
 description: Scopri come contribuire alla documentazione Adobe in Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: a3c283c5c0d181beacc566262743528d5ff9f7d2
+source-git-commit: df75e37ceec55476cc8b558e3bcccb474d329586
 workflow-type: tm+mt
-source-wordcount: '941'
-ht-degree: 100%
+source-wordcount: '951'
+ht-degree: 96%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 >All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../../contributing.md) article.
 >
 > Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
---->
+-->
 
 ## Panoramica
 
@@ -65,7 +65,7 @@ Prima che la richiesta di pull possa essere unita al relativo ramo di destinazio
 
 ### Revisione e autorizzazione
 
-Al termine dell’elaborazione di tutte le PR, esamina i risultati (commenti PR, URL di anteprima, ecc.) per determinare se sono necessarie modifiche aggiuntive ai file prima di autorizzare l’unione. Se un revisore di PR ha rivisto la richiesta di pull, può anche fornire un feedback tramite commenti in caso di problemi/domande in sospeso da risolvere prima dell’unione.
+After all PR processing is completed, you should review the results (PR comments, preview URLs, etc.) to determine if additional changes to its files are required before you sign off for merging. Se un revisore di PR ha rivisto la richiesta di pull, può anche fornire un feedback tramite commenti in caso di problemi/domande in sospeso da risolvere prima dell’unione.
 
 Quando la richiesta di pull è priva di problemi e autorizzata, le modifiche vengono unite nuovamente al ramo principale e la richiesta di pull viene chiusa.
 
