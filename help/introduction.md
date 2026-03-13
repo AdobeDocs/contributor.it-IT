@@ -4,10 +4,10 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: f0552fbba1aac1b8ffd4116bd66f6c06afab0d39
+source-git-commit: 5ee22aee7299bfbe04bc29866f7a0ac0486cf07a
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 93%
+source-wordcount: '910'
+ht-degree: 91%
 
 ---
 
@@ -33,14 +33,7 @@ Come utente di questo materiale, a prescindere che tu sia un dipendente, un part
 
 Queste opzioni vengono visualizzate nella parte inferiore della pagina pochi secondi dopo l’apertura. Se salti l’area di feedback, puoi ricaricare la pagina per riportarla indietro.
 
-Questa guida delinea tutti gli elementi necessari per interagire con e contribuire a questo materiale.
-
-<!--
->[!IMPORTANT]
->All repositories that publish to docs.adobe.com have adopted the [Adobe Open Source Code of Conduct](../code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](../contributing.md) article.
->
-> Minor corrections or clarifications to documentation and code examples in public repositories are covered by the [Adobe Documentation Terms of Use](https://www.adobe.com/legal/terms.html). New or significant changes generate a comment in the pull request, asking you to submit an online Contribution License Agreement (CLA) if you are not an employee of Adobe. We need you to complete the online form before we can review or accept your pull request.
--->
+Questa guida descrive cosa devi sapere per interagire con e contribuire a questo set di materiali.
 
 ## Valutare l’utilità della pagina e scrivi un commento
 
@@ -82,7 +75,7 @@ Per fornire un feedback più dettagliato, apportare modifiche rapide è un buon 
    >
    >Se ricevi un messaggio di errore di convalida relativo alla firma di un contratto CLA (Contributor License Agreement), fai clic su **[!UICONTROL Details]** per aprire il contratto di licenza. Firma il contratto, se accettabile. Quindi chiudi e apri la richiesta di pull e continua.
 
-Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie. 
+Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire la tua richiesta pull. Grazie.
 
 ## Segnalare un problema
 
