@@ -1,7 +1,8 @@
 ---
 git-repo: https://github.com/AdobeDocs/contributor.en
 solution: Experience Cloud
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 cloud: Experience Cloud
 user-guide-title: Guida per i collaboratori
 user-guide-description: Istruzioni per i collaboratori della documentazione di Adobe
