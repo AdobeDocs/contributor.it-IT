@@ -184,7 +184,7 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta il [supporto nativo di Markdown per i blocchi di codice](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ``` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` ```javascript`
+Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ` `` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` `` `javascript`
 
 Esempi:
 
@@ -225,11 +225,11 @@ Per richiamare l’attenzione su contenuti specifici, puoi scegliere tra questi 
 * `[!IMPORTANT]`
 * `[!CAUTION]`
 * `[!WARNING]`
-* `[!ADMINISTRATION]`
+* `[ !ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
 * `[!ERROR]`
-* `[!ADMINISTRATION]`
+* `[ !ADMINISTRATION]`
 * `[!INFO]`
 * `[!SUCCESS]`
 
@@ -287,9 +287,9 @@ Visualizzato:
 
 Tutto il contenuto della guida Markdown viene localizzato inizialmente utilizzando la traduzione automatica. Se la guida non è mai stata localizzata, viene mantenuta la traduzione automatica. Se invece il contenuto della guida è stato localizzato in passato, la traduzione automatica verrà temporaneamente utilizzata come segnaposto finché la traduzione umana non sarà stata finalizzata.
 
-**``**
+**&grave;&grave;**
 
-Durante la traduzione automatica, gli elementi con i tag `` vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad esempio, riferimenti ad Analytics in italiano).
+Durante la traduzione automatica, gli elementi con i tag &grave;&grave; vengono verificati rispetto a un database di localizzazione. Nel caso in cui l’interfaccia utente non sia localizzata, questo tag consentirà al sistema di lasciare il riferimento all’interfaccia utente in inglese per quella particolare lingua (ad esempio, riferimenti ad Analytics in italiano).
 
 **Esempio di contenuto di origine:**
 
@@ -309,7 +309,7 @@ Durante la traduzione automatica, gli elementi con i tag `` vengono verificati
 >Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
 -->
 
-**`[!DNL]`**
+**``**
 
 Di regola, usiamo un elenco di termini da “Non tradurre” per istruire i motori di traduzione automatica su ciò che mantenere in inglese. Gli elementi più importanti sono ad esempio nomi di soluzioni lunghi, come “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. Tuttavia, ci possono essere casi in cui è necessario costringere il motore a usare l’inglese perché il termine in questione può essere utilizzato in modo specifico o generale. Il caso più evidente sarebbe quello dei nomi brevi delle soluzioni come &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot; ecc. Sarebbe difficile per una macchina capire che si tratta di nomi di soluzioni e non di termini generali. Il tag può essere utilizzato anche per nomi/funzioni di terze parti che rimangono sempre in inglese o per sezioni più brevi di testo, come un termine o una frase, che devono rimanere in inglese.
 
