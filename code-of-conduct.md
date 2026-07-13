@@ -3,12 +3,12 @@ title: Codice di condotta di Adobe
 description: Codice di condotta di Adobe
 source-git-commit: 883a314481675cbe8cea97782ccf39b738690bf9
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 100%
+source-wordcount: '451'
+ht-degree: 87%
 
 ---
 
-# Codice di condotta di Adobe 
+# Codice di condotta di Adobe
 
 ## Il nostro impegno
 
@@ -16,8 +16,7 @@ Allo scopo di promuovere un ambiente aperto e accogliente, ci impegniamo in quan
 
 ## I nostri standard
 
-Degli esempi di comportamenti che contribuiscono alla creazione di un ambiente
-positivo includono:
+Degli esempi di comportamenti che contribuiscono alla creazione di un ambiente positivo includono:
 
 * Utilizzare un linguaggio accogliente e inclusivo
 * Rispettare punti di vista ed esperienze diversi
@@ -25,7 +24,7 @@ positivo includono:
 * Concentrarsi sul meglio per la community
 * Mostrare empatia verso altri membri della community
 
-Degli esempi di comportamenti non accettabili dai partecipanti includono:
+Esempi di comportamenti non accettabili da parte dei partecipanti includono:
 
 * L’utilizzo di linguaggio o immagini sessualizzati e di attenzioni o proposte sessuali indesiderate
 * Commenti provocatori, offensivi/dispregiativi e attacchi personali o politici
@@ -41,15 +40,16 @@ I responsabili del progetto hanno il diritto e la responsabilità di rimuovere, 
 
 ## Portata
 
-Il presente Codice di condotta si applica sia all’interno degli spazi del progetto sia negli spazi pubblici quando un utente sta rappresentando il progetto o la sua community. Esempi di rappresentazione di un progetto o di una community includono l’utilizzo di un indirizzo e-mail ufficiale del progetto, la pubblicazione tramite un account di social media ufficiale o l’essere rappresentante designato a un evento online o offline. La rappresentazione di un progetto può essere ulteriormente definita e chiarita dai responsabili del progetto.
+Il presente Codice di condotta si applica sia all’interno degli spazi del progetto sia negli spazi pubblici quando un utente sta rappresentando il progetto o la sua community. Esempi di rappresentazione di un progetto o di una community includono l’utilizzo di un messaggio e-mail ufficiale del progetto
+indirizzare, pubblicare tramite un account ufficiale di social media o fungere da rappresentante designato a un evento online o offline. La rappresentazione di un progetto può essere ulteriormente definita e chiarita dai responsabili del progetto.
 
 ## Applicazione
 
-Le occorrenze di comportamenti violenti, offensivi o altrimenti inaccettabili possono essere segnalate contattando il team del progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutti i reclami verranno esaminati e analizzati e risulteranno in una risposta ritenuta necessaria e appropriata alle circostanze. Il team del progetto è obbligato a mantenere la riservatezza rispetto a chi denuncia un incidente. Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
+I casi di comportamento abusivo, molesto o altrimenti inaccettabile possono essere segnalati contattando il team del progetto all’indirizzo Grp-opensourceoffice@adobe.com. Tutti i reclami saranno esaminati e analizzati e daranno luogo a una risposta che
+sia ritenuta necessaria e adeguata alle circostanze. Il team del progetto è obbligato a mantenere la riservatezza rispetto a chi denuncia un incidente. Ulteriori dettagli sui criteri di applicazione specifici possono essere pubblicati separatamente.
 
 I responsabili del progetto che non seguono o non applicano il Codice di condotta in buona fede possono far fronte a conseguenze temporanee o permanenti in base a quanto determinato da altri membri della direzione del progetto.
 
 ## Attribuzione
 
-Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4,
-disponibile all’indirizzo [https://www.contributor-covenant.org/it/version/1/4/code-of-conduct](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)
+Il presente Codice di condotta è stato adattato dal [Codice di Comportamento del Collaboratore](https://contributor-covenant.org), versione 1.4, disponibile all’indirizzo [https://www.contributor-covenant.org/it/version/1/4/code-of-conduct](https://www.contributor-covenant.org/it/version/1/4/code-of-conduct)
