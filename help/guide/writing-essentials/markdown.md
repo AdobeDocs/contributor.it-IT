@@ -2,13 +2,11 @@
 title: Come utilizzare Markdown per la scrittura della documentazione
 description: Scopri le nozioni di base sull’authoring Markdown. Trova informazioni di riferimento per il linguaggio Markdown utilizzato per la scrittura di articoli.
 exl-id: 3e5726e2-139e-4e44-ae5b-8a3ae4782faf
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: 67075e2ca1ac4f63c0bdc30507dbb0444a922afd
 workflow-type: tm+mt
-source-wordcount: '1376'
-ht-degree: 93%
-
+source-wordcount: '1309'
+ht-degree: 92%
 ---
-
 # Come utilizzare Markdown per la scrittura della documentazione tecnica
 
 Gli articoli della documentazione tecnica di Adobe sono scritti in un linguaggio di markup leggero chiamato [Markdown](https://daringfireball.net/projects/markdown/), facile da leggere e da apprendere.
@@ -184,7 +182,9 @@ Visualizzato:
 
 Markdown supporta il posizionamento di blocchi di codice sia in linea in una frase sia come un blocco separato “delimitato” tra due frasi. Per informazioni, consulta il [supporto nativo di Markdown per i blocchi di codice](https://daringfireball.net/projects/markdown/syntax#precode)
 
-Utilizza gli apici retroversi (`` ` ``) per creare stili di codice in linea all’interno di un paragrafo. Per creare un blocco di codice specifico su più righe, aggiungi tre apici retroversi (` ` `` `) prima e dopo il blocco di codice (denominato “blocco di codice delimitato” in Markdown e semplicemente componente “blocco di codice” in AEM). Per i blocchi di codice delimitati, aggiungi il linguaggio del codice dopo il primo set di apici retroversi affinché la sintassi del codice venga evidenziata correttamente da Markdown. Esempio: ` `` `javascript`
+<!--
+Use back ticks (`` ` ``) to create inline code styles within a paragraph. To create a specific multi-line code block, add three back ticks (` ``` `) before and after the code block (called a "fenced code block" in Markdown and just a "code block" component in AEM). For fenced code blocks, add the code language after the first set of back ticks so that Markdown correctly highlights code syntax. Example: ` ```javascript`
+-->
 
 Esempi:
 
@@ -225,11 +225,11 @@ Per richiamare l’attenzione su contenuti specifici, puoi scegliere tra questi 
 * `[!IMPORTANT]`
 * `[!CAUTION]`
 * `[!WARNING]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!AVAILABILITY]`
 * `[!PREREQUISITES]`
 * `[!ERROR]`
-* `[ !ADMINISTRATION]`
+* `[!ADMINISTRATION]`
 * `[!INFO]`
 * `[!SUCCESS]`
 
@@ -309,7 +309,7 @@ Durante la traduzione automatica, gli elementi con i tag &grave;&grave; vengon
 >Of the two tagging options, this is the most crucial to deliver high quality and is mandatory.
 -->
 
-**``**
+**`[!DNL]`**
 
 Di regola, usiamo un elenco di termini da “Non tradurre” per istruire i motori di traduzione automatica su ciò che mantenere in inglese. Gli elementi più importanti sono ad esempio nomi di soluzioni lunghi, come “Adobe Analytics”, “Adobe Campaign” e “Adobe Target”. Tuttavia, ci possono essere casi in cui è necessario costringere il motore a usare l’inglese perché il termine in questione può essere utilizzato in modo specifico o generale. Il caso più evidente sarebbe quello dei nomi brevi delle soluzioni come &quot;Analytics&quot;, &quot;Campaign&quot;, &quot;Target&quot; ecc. Sarebbe difficile per una macchina capire che si tratta di nomi di soluzioni e non di termini generali. Il tag può essere utilizzato anche per nomi/funzioni di terze parti che rimangono sempre in inglese o per sezioni più brevi di testo, come un termine o una frase, che devono rimanere in inglese.
 

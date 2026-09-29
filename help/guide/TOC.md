@@ -1,40 +1,39 @@
 ---
 git-repo: https://github.com/AdobeDocs/contributor.it-IT
-solution: Experience Cloud
+solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: "CX Enterprise"
 usetq: true
 cloud: Experience Cloud
 user-guide-title: Guida per i collaboratori
 user-guide-description: Istruzioni per i collaboratori della documentazione di Adobe
 index: true
-source-git-commit: 6474661d6b2494cff3dd02b507f407181143d4a0
+source-git-commit: a2f6b0d5b397ba80401a7351f72ac5b2b4dd35e8
 workflow-type: tm+mt
-source-wordcount: 101
-ht-degree: 66%
-
+source-wordcount: '97'
+ht-degree: 64%
 ---
-
 
 # Guida collaboratore per la documentazione di Adobe{#contributor-guide}
 
 + [Introduzione](/help/guide/introduction.md)
 + Configurazione con GitHub {#setup}
-   + [Configurare l’account GitHub](setup/github-signup.md)
-   + [Installare gli strumenti di creazione Git e Markdown](setup/install-tools.md)
-   + [Configurare un archivio Git locale](setup/local-repo.md)
-   + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
-   + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
+  + [Configurare l’account GitHub](setup/github-signup.md)
+  + [Installare gli strumenti di creazione Git e Markdown](setup/install-tools.md)
+  + [Configurare un archivio Git locale](setup/local-repo.md)
+  + [Nozioni di base sulla documentazione GitHub](setup/git-fundamentals.md)
+  + [Flusso di lavoro GitHub per modifiche principali](setup/full-workflow.md)
 + Nozioni di base di scrittura {#writing-essentials}
-   + [Utilizzo di Markdown](writing-essentials/markdown.md)
-   + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
-   + [Collegamento](writing-essentials/linking.md)
+  + [Utilizzo di Markdown](writing-essentials/markdown.md)
+  + [Indicazioni generali sulla scrittura](writing-essentials/general-writing-guidance.md)
+  + [Collegamento](writing-essentials/linking.md)
 + Feedback sulla traduzione {#localization}
-   + [Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud](localization/machine-translation.md)
+  + [Supporto linguistico per la documentazione di prodotto Adobe Experience Cloud](localization/machine-translation.md)
 + [Risorse di apprendimento Git e GitHub](resources.md)
 + Condotta e contributi {#conduct-contributions}
-   + [Codice di condotta](conduct/code-of-conduct.md)
-   + [Panoramica dei contributi](conduct/contributing.md)
+  + [Codice di condotta](conduct/code-of-conduct.md)
+  + [Panoramica dei contributi](conduct/contributing.md)
 + Ignora test {#testing}
-   + [Analytics con ID](https://experienceleague.adobe.com/it/docs/analytics/implementation/id/overview)
-   + [Guida all’autenticazione](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
+  + [Analytics con ID](https://experienceleague.adobe.com/it/docs/analytics/implementation/id/overview)
+  + [Guida all’autenticazione](https://experienceleague.adobe.com/en/docs/authoring-guide/using/release-notes)
