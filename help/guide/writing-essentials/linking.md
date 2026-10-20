@@ -27,7 +27,7 @@ Le parole incluse nel testo del collegamento devono essere il titolo della pagin
 
 - `For more information, see the [overview article](https://github.com/AdobeDocs/target.it-IT/help/overview.md).`
 
-- `For more details, see [Adobe Legal Concerns](https://www.adobe.com/legal).`
+- `For more details, see [Adobe Legal Concerns](https://www.adobe.com/it/legal).`
 
 ## Collegamento da un articolo a un altro
 
