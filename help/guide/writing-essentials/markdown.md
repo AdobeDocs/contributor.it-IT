@@ -263,12 +263,12 @@ Visualizzato:
 I video incorporati non vengono renderizzati in modo nativo in Markdown ma puoi utilizzare questa estensione Markdown.
 
 ```markdown
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507559/?captions=ita&quality=12)
 ```
 
 Visualizzato:
 
->[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3507559/?captions=ita&quality=12)
 
 ### Altri argomenti correlati
 
