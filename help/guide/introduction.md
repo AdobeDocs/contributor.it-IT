@@ -4,22 +4,20 @@ seo-title: Contributor guide overview for Adobe Experience Cloud technical docum
 description: La guida descrive come contribuire con suggerimenti e aggiunte al sito della documentazione di Adobe.
 seo-description: The guide describes how you can contribute to the [!UICONTROL Adobe Experience Cloud] technical documentation.
 exl-id: 1294d0c6-897e-49c0-bf27-fd7d122f1fc8
-source-git-commit: 6474661d6b2494cff3dd02b507f407181143d4a0
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 91%
-
+source-wordcount: '899'
+ht-degree: 78%
 ---
-
 # Guida per chi contribuisce alla documentazione Adobe
 
 Questa guida descrive come contribuire alla documentazione Adobe Enterprise su Experience League.
 
 ## Cos’è la documentazione collaborativa?
 
-La documentazione tecnica e i contenuti di abilitazione per Adobe Experience Cloud e altri prodotti Adobe Enterprise si basano sui principi open source e utilizzano GitHub, Markdown e le soluzioni Adobe Experience Cloud.
+La documentazione tecnica e i contenuti di supporto per Adobe CX Enterprise e altri prodotti Adobe Enterprise si basano su principi open source che utilizzano soluzioni GitHub, Markdown e Adobe CX Enterprise.
 
-Questo modello open source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe controllano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
+Questo modello open source migliora la qualità dei contenuti e la comunicazione tra clienti, team di documentazione e team di prodotto. In ogni pagina è ora possibile valutare l’utilità dei contenuti, segnalare eventuali problemi e persino contribuire con suggerimenti di contenuti, come le richieste pull di Git (PR). I team di documentazione Adobe monitorano i contributi e i problemi segnalati su base giornaliera ed effettuano aggiornamenti, modifiche e regolazioni, a seconda delle necessità.
 
 ## Utilizzo della documentazione collaborativa
 
@@ -29,15 +27,15 @@ Come utente di questo materiale, a prescindere che tu sia un dipendente, un part
 * Segnala un problema relativo a una pagina specifica (richiede l&#39;accesso Git) ❸
 * Invia una modifica rapida tramite per l&#39;authoring di interi articoli, completi di risorse ed esempi di codice (è necessario l&#39;accesso Git) ❹
 
-![Feedback](assets/feedback-options.png)
+![Feedback](assets/feedback-options-2026.png)
 
-Queste opzioni vengono visualizzate nella parte inferiore della pagina pochi secondi dopo l’apertura. Se salti l’area di feedback, puoi ricaricare la pagina per riportarla indietro.
+Queste opzioni vengono visualizzate sul lato destro della pagina pochi secondi dopo l’apertura.
 
 Questa guida descrive cosa devi sapere per interagire con e contribuire a questo set di materiali.
 
 ## Valutare l’utilità della pagina e scrivi un commento
 
-Alcuni secondi dopo l’apertura di una pagina, nella parte inferiore della pagina viene visualizzata un’area di feedback. Fai clic in alto o in basso per indicare se la pagina è stata utile.
+Pochi secondi dopo l’apertura di una pagina, sul lato destro della pagina viene visualizzata un’area di feedback. Fai clic in alto o in basso per indicare se la pagina è stata utile.
 
 Puoi lasciare un commento per fornire un feedback aggiuntivo.
 
@@ -49,7 +47,7 @@ Per fornire un feedback più dettagliato, apportare modifiche rapide è un buon 
 
    È necessario inviare un Adobe CLA una sola volta.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
+1. Nell&#39;area di feedback visualizzata sul lato destro dell&#39;articolo, fare clic su **[!UICONTROL Detailed feedback options]** e quindi su **[!UICONTROL Suggest an edit]** per passare al file Markdown di origine su GitHub.
 
    ![Icona Modifica questa pagina](/help/guide/assets/feedback-suggest-edit.png)
 
@@ -81,7 +79,7 @@ Tutto qui. I membri del gruppo della documentazione potranno esaminare e unire l
 
 Per comunicare facilmente un problema relativo ai contenuti, puoi anche usare la funzione **[!UICONTROL Report an issue]**.
 
-1. Nell’area di feedback visualizzata nella parte inferiore dell’articolo, fai clic su **[!UICONTROL Detailed feedback options]**, poi fai clic su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
+1. Nell&#39;area di feedback visualizzata sul lato destro dell&#39;articolo, fare clic su **[!UICONTROL Detailed feedback options]** e quindi su **[!UICONTROL Report an issue]** per passare al file Markdown di origine su GitHub.
 
    ![Segnalare un problema](assets/feedback-report-issue.png)
 
@@ -112,4 +110,3 @@ L’esperienza di modifica nel browser è ideale per modifiche minori o non freq
 Con un set di soluzioni quello di Adobe, la documentazione è in continua elaborazione. Se noti degli errori, segnala un problema; se hai suggerimenti sul materiale, comunicali. Indicaci quali informazioni stavi cercando. Comunicaci se non hai trovato ciò di cui avevi bisogno o se hai incontrato difficoltà a completare l’attività; informaci su come possiamo aiutarti a scoprire di più sulle soluzioni.
 
 Grazie al team della documentazione collaborativa e a tutti gli autori e i produttori di contenuti in Experience League. Grazie per il vostro aiuto.
-

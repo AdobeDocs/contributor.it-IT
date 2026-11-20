@@ -2,13 +2,11 @@
 title: Flusso di lavoro dei contributi GitHub per modifiche principali
 description: Scopri come contribuire alla documentazione Adobe in Experience League.
 exl-id: ad467ad4-abd2-4166-8659-e29c48d268ec
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '951'
+source-wordcount: '860'
 ht-degree: 96%
-
 ---
-
 # Flusso di lavoro dei contributi GitHub per modifiche principali
 
 <!--
@@ -49,9 +47,11 @@ Come descritto nella sezione [Nozioni di base su Git e GitHub](git-fundamentals.
 
 L’isolamento delle modifiche correlate a un ramo specifico consente di controllare e introdurre tali modifiche in modo indipendente, indirizzandole a un determinato tempo di rilascio nel ciclo di pubblicazione. In realtà, in base al tipo di lavoro svolto, puoi facilmente ritrovarti con diversi rami di lavoro nell’archivio. Non è raro lavorare contemporaneamente su più rami, ognuno dei quali rappresenta un progetto diverso.
 
+<!--
 >[!NOTE]
 >
->*Non è buona prassi* apportare le modifiche direttamente nel ramo principale. Immagina di utilizzare il ramo principale per introdurre una serie di modifiche relative a una versione funzionale che verrà rilasciata in una determinata data. Hai completato le modifiche e sei in attesa della data di rilascio. Nel frattempo ricevi una richiesta urgente per correggere qualcosa, quindi apporti la modifica necessaria a un file nel ramo principale e la pubblichi. In questo esempio, pubblichi inavvertitamente sia la correzione *sia* le modifiche che stavi tenendo per il rilascio in una data specifica.
+>Making your changes in the main branch *is not a good practice*. Imagine that you use the main branch to introduce a set of changes for a timed feature release. You finish the changes and are waiting to release them. Then in the interim, you have an urgent request to fix something, so you make the change to a file in the main branch and then publish the change. In this example, you inadvertently publish both the fix *and* the changes that you were holding for release on a specific date.
+-->
 
 La fase successiva consiste nel creare un nuovo ramo di lavoro nell’archivio locale per acquisire le modifiche proposte. Ciascun client Git è diverso, quindi consulta l’Aiuto per il tuo client preferito. Puoi vedere una panoramica del processo nella Guida GitHub sul [Flusso GitHub](https://guides.github.com/introduction/flow/).
 
