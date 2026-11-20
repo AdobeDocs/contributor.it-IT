@@ -153,12 +153,12 @@ La sintassi Markdown per un collegamento in linea è costituita dalla porzione `
 `[link text](file-name.md)`
 
 ```markdown
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/it)
 ```
 
 Visualizzato:
 
-[Adobe](https://www.adobe.com)
+[Adobe](https://www.adobe.com/it)
 
 Per i collegamenti agli articoli (rimandi) all’interno dell’archivio, utilizza i collegamenti relativi. Puoi utilizzare tutti gli operandi di collegamento relativo, come ./ (directory corrente), ../ (indietro di una directory) e ../../ (indietro di due directory).
 
