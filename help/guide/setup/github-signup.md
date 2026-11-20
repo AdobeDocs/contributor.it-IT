@@ -2,13 +2,11 @@
 title: Procedura di configurazione dell’account GitHub
 description: Segui il processo di configurazione degli account per GitHub, richiesto per contribuire con dei contenuti alla documentazione di Adobe.
 exl-id: 62be9e5a-bbbc-4a78-82e9-24cf658e6d35
-source-git-commit: 6510db0d89ac9224df8a73ab50776e65068b7e08
+source-git-commit: a1466cb4bcbef51689c659e25d56d5cb0d4843a6
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
-
+source-wordcount: '215'
+ht-degree: 85%
 ---
-
 # Configurazione dell’account GitHub
 
 ## Configurare un account GitHub
@@ -31,6 +29,6 @@ Tutti i contributi di terze parti a questo progetto devono essere accompagnati d
 
 >[!NOTE]
 >
->Per i dipendenti Adobe, è consigliabile visitare l’indirizzo `https://git.corp.adobe.com/adobedocs`, accedere con il proprio account LDAP e individuare il contenuto che si desidera modificare.
+>Se sei un dipendente Adobe, ti consigliamo di visitare `https://github.com/Adobe-Enterprise-Docs`, accedere con il tuo account LDAP Enterprise (non con l&#39;account Github.com pubblico) e individuare il contenuto che desideri modificare.
 >
 >È quindi possibile utilizzare l’approccio secondario (nel browser) o principale (forking e clonazione locale) per modificare articoli e inviare richieste di pull.
